@@ -1,0 +1,1622 @@
+[
+  {
+    "timestamp": "2025-09-23T00:11:05.626220",
+    "execution_data": {
+      "execution_id": "20250923_001029",
+      "start_time": "2025-09-23T00:10:29.502988",
+      "end_time": "2025-09-23T00:11:05.626127",
+      "phases": {
+        "initialization": {
+          "start": 1758597029.502988,
+          "end": 1758597029.5032115,
+          "duration": 0.00022339820861816406
+        },
+        "driver_initialization": {
+          "start": 1758597029.5032115,
+          "end": 1758597037.2273536,
+          "duration": 7.724142074584961
+        },
+        "main_execution_flow": {
+          "start": 1758597037.2273536,
+          "end": 1758597043.009143,
+          "duration": 5.781789541244507
+        },
+        "api_monitoring": {
+          "start": 1758597043.009143,
+          "end": 1758597063.078226,
+          "duration": 20.069082975387573
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 36.12313961982727
+    }
+  },
+  {
+    "timestamp": "2025-09-23T09:43:57.228298",
+    "execution_data": {
+      "execution_id": "20250923_094330",
+      "start_time": "2025-09-23T09:43:30.094336",
+      "end_time": "2025-09-23T09:43:57.216997",
+      "phases": {
+        "initialization": {
+          "start": 1758631410.0943363,
+          "end": 1758631410.0953574,
+          "duration": 0.0010211467742919922
+        },
+        "driver_initialization": {
+          "start": 1758631410.0953574,
+          "end": 1758631415.6076057,
+          "duration": 5.512248277664185
+        },
+        "main_execution_flow": {
+          "start": 1758631415.6076057,
+          "end": 1758631422.806659,
+          "duration": 7.1990532875061035
+        },
+        "api_monitoring": {
+          "start": 1758631422.806659,
+          "end": 1758631434.2039297,
+          "duration": 11.397270679473877
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 1
+      },
+      "total_duration": 27.122661352157593
+    }
+  },
+  {
+    "timestamp": "2025-09-23T09:45:14.689298",
+    "execution_data": {
+      "execution_id": "20250923_094456",
+      "start_time": "2025-09-23T09:44:56.865908",
+      "end_time": "2025-09-23T09:45:14.675343",
+      "phases": {
+        "initialization": {
+          "start": 1758631496.8659084,
+          "end": 1758631496.8659084,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758631496.8659084,
+          "end": 1758631499.880778,
+          "duration": 3.0148696899414062
+        },
+        "main_execution_flow": {
+          "start": 1758631499.880778,
+          "end": 1758631506.8130555,
+          "duration": 6.93227744102478
+        },
+        "api_monitoring": {
+          "start": 1758631506.8130555,
+          "end": 1758631511.9340363,
+          "duration": 5.120980739593506
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 1
+      },
+      "total_duration": 17.80943465232849
+    }
+  },
+  {
+    "timestamp": "2025-09-23T09:57:29.351292",
+    "execution_data": {
+      "execution_id": "20250923_095706",
+      "start_time": "2025-09-23T09:57:06.098116",
+      "end_time": "2025-09-23T09:57:29.328806",
+      "phases": {
+        "initialization": {
+          "start": 1758632226.0981166,
+          "end": 1758632226.0991068,
+          "duration": 0.000990152359008789
+        },
+        "driver_initialization": {
+          "start": 1758632226.0991068,
+          "end": 1758632229.2648344,
+          "duration": 3.1657276153564453
+        },
+        "main_execution_flow": {
+          "start": 1758632229.2648344,
+          "end": 1758632235.4381537,
+          "duration": 6.173319339752197
+        },
+        "api_monitoring": {
+          "start": 1758632235.4381537,
+          "end": 1758632246.638037,
+          "duration": 11.199883222579956
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 1
+      },
+      "total_duration": 23.230689525604248
+    }
+  },
+  {
+    "timestamp": "2025-09-23T09:59:52.236977",
+    "execution_data": {
+      "execution_id": "20250923_095927",
+      "start_time": "2025-09-23T09:59:27.908543",
+      "end_time": "2025-09-23T09:59:52.222431",
+      "phases": {
+        "initialization": {
+          "start": 1758632367.9085438,
+          "end": 1758632367.9095137,
+          "duration": 0.0009698867797851562
+        },
+        "driver_initialization": {
+          "start": 1758632367.9095137,
+          "end": 1758632371.2259202,
+          "duration": 3.316406488418579
+        },
+        "main_execution_flow": {
+          "start": 1758632371.2259202,
+          "end": 1758632377.6280622,
+          "duration": 6.40214204788208
+        },
+        "api_monitoring": {
+          "start": 1758632377.6280622,
+          "end": 1758632389.3584511,
+          "duration": 11.730388879776001
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 1
+      },
+      "total_duration": 24.31388783454895
+    }
+  },
+  {
+    "timestamp": "2025-09-23T10:02:24.340987",
+    "execution_data": {
+      "execution_id": "20250923_100208",
+      "start_time": "2025-09-23T10:02:08.461486",
+      "end_time": "2025-09-23T10:02:24.327603",
+      "phases": {
+        "initialization": {
+          "start": 1758632528.461486,
+          "end": 1758632528.4631827,
+          "duration": 0.0016965866088867188
+        },
+        "driver_initialization": {
+          "start": 1758632528.4631827,
+          "end": 1758632531.8987007,
+          "duration": 3.4355180263519287
+        },
+        "main_execution_flow": {
+          "start": 1758632531.8987007,
+          "end": 1758632537.5519757,
+          "duration": 5.653275012969971
+        },
+        "api_monitoring": {
+          "start": 1758632537.5519757,
+          "end": 1758632541.4641662,
+          "duration": 3.9121904373168945
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 1
+      },
+      "total_duration": 15.86611795425415
+    }
+  },
+  {
+    "timestamp": "2025-09-23T12:22:50.186493",
+    "execution_data": {
+      "execution_id": "20250923_122201",
+      "start_time": "2025-09-23T12:22:01.969285",
+      "end_time": "2025-09-23T12:22:50.185452",
+      "phases": {
+        "initialization": {
+          "start": 1758640921.969286,
+          "end": 1758640921.9726837,
+          "duration": 0.003397703170776367
+        },
+        "driver_initialization": {
+          "start": 1758640921.9726837,
+          "end": 1758640927.3532524,
+          "duration": 5.380568742752075
+        },
+        "main_execution_flow": {
+          "start": 1758640927.3532524,
+          "end": 1758640947.3946123,
+          "duration": 20.041359901428223
+        },
+        "api_monitoring": {
+          "start": 1758640947.3946123,
+          "end": 1758640967.4360418,
+          "duration": 20.04142951965332
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 48.216166257858276
+    }
+  },
+  {
+    "timestamp": "2025-09-23T12:23:57.567291",
+    "execution_data": {
+      "execution_id": "20250923_122315",
+      "start_time": "2025-09-23T12:23:15.657521",
+      "end_time": "2025-09-23T12:23:57.544525",
+      "phases": {
+        "initialization": {
+          "start": 1758640995.6575212,
+          "end": 1758640995.6584537,
+          "duration": 0.0009324550628662109
+        },
+        "driver_initialization": {
+          "start": 1758640995.6584537,
+          "end": 1758641003.713915,
+          "duration": 8.055461406707764
+        },
+        "main_execution_flow": {
+          "start": 1758641003.713915,
+          "end": 1758641014.1214666,
+          "duration": 10.407551527023315
+        },
+        "api_monitoring": {
+          "start": 1758641014.1214666,
+          "end": 1758641034.197284,
+          "duration": 20.075817346572876
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 41.887004137039185
+    }
+  },
+  {
+    "timestamp": "2025-09-23T12:57:21.167464",
+    "execution_data": {
+      "execution_id": "20250923_125603",
+      "start_time": "2025-09-23T12:56:03.321111",
+      "end_time": "2025-09-23T12:57:21.146852",
+      "phases": {
+        "initialization": {
+          "start": 1758642963.321111,
+          "end": 1758642963.3217409,
+          "duration": 0.0006299018859863281
+        },
+        "driver_initialization": {
+          "start": 1758642963.3217409,
+          "end": 1758642967.0098069,
+          "duration": 3.688066005706787
+        },
+        "main_execution_flow": {
+          "start": 1758642967.0098069,
+          "end": 1758643013.260975,
+          "duration": 46.25116801261902
+        },
+        "api_monitoring": {
+          "start": 1758643013.260975,
+          "end": 1758643038.275613,
+          "duration": 25.0146381855011
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 77.82574152946472
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:00:42.984316",
+    "execution_data": {
+      "execution_id": "20250923_125851",
+      "start_time": "2025-09-23T12:58:51.607992",
+      "end_time": "2025-09-23T13:00:42.965406",
+      "phases": {
+        "initialization": {
+          "start": 1758643131.6079922,
+          "end": 1758643131.6119034,
+          "duration": 0.003911256790161133
+        },
+        "driver_initialization": {
+          "start": 1758643131.6119034,
+          "end": 1758643137.1005497,
+          "duration": 5.4886462688446045
+        },
+        "main_execution_flow": {
+          "start": 1758643137.1005497,
+          "end": 1758643199.7437205,
+          "duration": 62.64317083358765
+        },
+        "api_monitoring": {
+          "start": 1758643199.7437205,
+          "end": 1758643238.6480315,
+          "duration": 38.90431094169617
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 111.35741448402405
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:25:53.493890",
+    "execution_data": {
+      "execution_id": "20250923_132414",
+      "start_time": "2025-09-23T13:24:14.391152",
+      "end_time": "2025-09-23T13:25:53.462254",
+      "phases": {
+        "initialization": {
+          "start": 1758644654.3911521,
+          "end": 1758644654.391561,
+          "duration": 0.0004088878631591797
+        },
+        "driver_initialization": {
+          "start": 1758644654.391561,
+          "end": 1758644662.8240962,
+          "duration": 8.432535171508789
+        },
+        "main_execution_flow": {
+          "start": 1758644662.8240962,
+          "end": 1758644674.796535,
+          "duration": 11.97243881225586
+        },
+        "login_process": {
+          "start": 1758644674.796535,
+          "end": 1758644690.6455197,
+          "duration": 15.848984718322754
+        },
+        "api_monitoring": {
+          "start": 1758644710.2121353,
+          "end": 1758644740.2479026,
+          "duration": 30.035767316818237
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 99.07110214233398
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:35:29.614097",
+    "execution_data": {
+      "execution_id": "20250923_133400",
+      "start_time": "2025-09-23T13:34:00.980467",
+      "end_time": "2025-09-23T13:35:29.530095",
+      "phases": {
+        "initialization": {
+          "start": 1758645240.9804668,
+          "end": 1758645240.9810765,
+          "duration": 0.0006096363067626953
+        },
+        "driver_initialization": {
+          "start": 1758645240.9810765,
+          "end": 1758645248.9695754,
+          "duration": 7.98849892616272
+        },
+        "main_execution_flow": {
+          "start": 1758645248.9695754,
+          "end": 1758645271.6203082,
+          "duration": 22.65073275566101
+        },
+        "login_process": {
+          "start": 1758645271.6203082,
+          "end": 1758645315.7422225,
+          "duration": 44.12191438674927
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 88.54962825775146
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:41:44.111270",
+    "execution_data": {
+      "execution_id": "20250923_134034",
+      "start_time": "2025-09-23T13:40:34.025654",
+      "end_time": "2025-09-23T13:41:44.094038",
+      "phases": {
+        "initialization": {
+          "start": 1758645634.0256548,
+          "end": 1758645634.0262616,
+          "duration": 0.0006067752838134766
+        },
+        "driver_initialization": {
+          "start": 1758645634.0262616,
+          "end": 1758645638.5035286,
+          "duration": 4.477267026901245
+        },
+        "main_execution_flow": {
+          "start": 1758645638.5035286,
+          "end": 1758645641.3234825,
+          "duration": 2.8199539184570312
+        },
+        "api_monitoring": {
+          "start": 1758645641.3234825,
+          "end": 1758645671.4104626,
+          "duration": 30.08698010444641
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 70.06838369369507
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:43:35.573100",
+    "execution_data": {
+      "execution_id": "20250923_134214",
+      "start_time": "2025-09-23T13:42:14.467072",
+      "end_time": "2025-09-23T13:43:35.550392",
+      "phases": {
+        "initialization": {
+          "start": 1758645734.467072,
+          "end": 1758645734.4680479,
+          "duration": 0.0009758472442626953
+        },
+        "driver_initialization": {
+          "start": 1758645734.4680479,
+          "end": 1758645743.5758767,
+          "duration": 9.107828855514526
+        },
+        "main_execution_flow": {
+          "start": 1758645743.5758767,
+          "end": 1758645781.4168787,
+          "duration": 37.841001987457275
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 1,
+        "page_loads": 1,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 81.08332085609436
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:52:09.349415",
+    "execution_data": {
+      "execution_id": "20250923_135034",
+      "start_time": "2025-09-23T13:50:34.108367",
+      "end_time": "2025-09-23T13:52:09.269051",
+      "phases": {
+        "initialization": {
+          "start": 1758646234.1083677,
+          "end": 1758646234.1083677,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758646234.1083677,
+          "end": 1758646238.2226124,
+          "duration": 4.114244699478149
+        },
+        "main_execution_flow": {
+          "start": 1758646238.2226124,
+          "end": 1758646254.0496616,
+          "duration": 15.827049255371094
+        },
+        "api_monitoring": {
+          "start": 1758646254.0496616,
+          "end": 1758646294.0796995,
+          "duration": 40.03003787994385
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 95.16068387031555
+    }
+  },
+  {
+    "timestamp": "2025-09-23T14:57:33.273741",
+    "execution_data": {
+      "execution_id": "20250923_145637",
+      "start_time": "2025-09-23T14:56:37.717469",
+      "end_time": "2025-09-23T14:57:33.252364",
+      "phases": {
+        "initialization": {
+          "start": 1758650197.7176914,
+          "end": 1758650197.771679,
+          "duration": 0.05398750305175781
+        },
+        "driver_initialization": {
+          "start": 1758650197.771679,
+          "end": 1758650207.4871821,
+          "duration": 9.715503215789795
+        },
+        "main_execution_flow": {
+          "start": 1758650207.4871821,
+          "end": 1758650239.0672421,
+          "duration": 31.58006000518799
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 55.53467297554016
+    }
+  },
+  {
+    "timestamp": "2025-09-23T14:59:31.513984",
+    "execution_data": {
+      "execution_id": "20250923_145804",
+      "start_time": "2025-09-23T14:58:04.746736",
+      "end_time": "2025-09-23T14:59:31.490499",
+      "phases": {
+        "initialization": {
+          "start": 1758650284.7467365,
+          "end": 1758650284.7482903,
+          "duration": 0.0015537738800048828
+        },
+        "driver_initialization": {
+          "start": 1758650284.7482903,
+          "end": 1758650291.9538293,
+          "duration": 7.205538988113403
+        },
+        "main_execution_flow": {
+          "start": 1758650291.9538293,
+          "end": 1758650312.5986018,
+          "duration": 20.64477252960205
+        },
+        "api_monitoring": {
+          "start": 1758650312.5986018,
+          "end": 1758650357.6885974,
+          "duration": 45.08999562263489
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 86.74376249313354
+    }
+  },
+  {
+    "timestamp": "2025-09-26T16:23:58.660430",
+    "execution_data": {
+      "execution_id": "20250926_162306",
+      "start_time": "2025-09-26T16:23:06.316675",
+      "end_time": "2025-09-26T16:23:58.659527",
+      "phases": {
+        "initialization": {
+          "start": 1758914586.3166757,
+          "end": 1758914586.3453116,
+          "duration": 0.02863597869873047
+        },
+        "driver_initialization": {
+          "start": 1758914586.3453116,
+          "end": 1758914594.342712,
+          "duration": 7.997400283813477
+        },
+        "main_execution_flow": {
+          "start": 1758914594.342712,
+          "end": 1758914624.356239,
+          "duration": 30.013527154922485
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 1,
+        "page_loads": 1,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 52.3428521156311
+    }
+  },
+  {
+    "timestamp": "2025-09-26T16:24:53.048334",
+    "execution_data": {
+      "execution_id": "20250926_162419",
+      "start_time": "2025-09-26T16:24:19.252908",
+      "end_time": "2025-09-26T16:24:53.037649",
+      "phases": {
+        "initialization": {
+          "start": 1758914659.2529085,
+          "end": 1758914659.2529085,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758914659.2529085,
+          "end": 1758914662.0011897,
+          "duration": 2.748281240463257
+        },
+        "main_execution_flow": {
+          "start": 1758914662.0011897,
+          "end": 1758914668.0180335,
+          "duration": 6.016843795776367
+        },
+        "login_process": {
+          "start": 1758914668.0180335,
+          "end": 1758914670.3942187,
+          "duration": 2.376185178756714
+        },
+        "api_monitoring": {
+          "start": 1758914670.3952186,
+          "end": 1758914690.5011258,
+          "duration": 20.105907201766968
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 33.78542184829712
+    }
+  },
+  {
+    "timestamp": "2025-09-26T16:25:43.581838",
+    "execution_data": {
+      "execution_id": "20250926_162458",
+      "start_time": "2025-09-26T16:24:58.466431",
+      "end_time": "2025-09-26T16:25:43.571813",
+      "phases": {
+        "initialization": {
+          "start": 1758914698.4664311,
+          "end": 1758914698.4664311,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758914698.4664311,
+          "end": 1758914701.1157234,
+          "duration": 2.649292230606079
+        },
+        "main_execution_flow": {
+          "start": 1758914701.1157234,
+          "end": 1758914718.118546,
+          "duration": 17.002822637557983
+        },
+        "login_process": {
+          "start": 1758914718.118546,
+          "end": 1758914721.1707113,
+          "duration": 3.0521652698516846
+        },
+        "api_monitoring": {
+          "start": 1758914721.17121,
+          "end": 1758914741.1875637,
+          "duration": 20.016353607177734
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 45.105382442474365
+    }
+  },
+  {
+    "timestamp": "2025-09-26T16:30:41.240964",
+    "execution_data": {
+      "execution_id": "20250926_162833",
+      "start_time": "2025-09-26T16:28:33.946995",
+      "end_time": "2025-09-26T16:30:41.229984",
+      "phases": {
+        "initialization": {
+          "start": 1758914913.9469955,
+          "end": 1758914913.9469955,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758914913.9469955,
+          "end": 1758914917.5341778,
+          "duration": 3.5871822834014893
+        },
+        "main_execution_flow": {
+          "start": 1758914917.5341778,
+          "end": 1758914950.6514575,
+          "duration": 33.11727976799011
+        },
+        "login_process": {
+          "start": 1758914950.6514575,
+          "end": 1758914971.6661644,
+          "duration": 21.01470685005188
+        },
+        "api_monitoring": {
+          "start": 1758914983.6260533,
+          "end": 1758915028.6319513,
+          "duration": 45.005897998809814
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 127.28298902511597
+    }
+  },
+  {
+    "timestamp": "2025-09-26T16:51:19.389708",
+    "execution_data": {
+      "execution_id": "20250926_165034",
+      "start_time": "2025-09-26T16:50:34.017432",
+      "end_time": "2025-09-26T16:51:19.379918",
+      "phases": {
+        "initialization": {
+          "start": 1758916234.017432,
+          "end": 1758916234.017432,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758916234.017432,
+          "end": 1758916236.9563386,
+          "duration": 2.938906669616699
+        },
+        "main_execution_flow": {
+          "start": 1758916236.9563386,
+          "end": 1758916266.9871898,
+          "duration": 30.030851125717163
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 1,
+        "page_loads": 1,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 45.362486124038696
+    }
+  },
+  {
+    "timestamp": "2025-09-26T17:33:39.144746",
+    "execution_data": {
+      "execution_id": "20250926_173152",
+      "start_time": "2025-09-26T17:31:52.528310",
+      "end_time": "2025-09-26T17:33:39.132703",
+      "phases": {
+        "initialization": {
+          "start": 1758918712.52831,
+          "end": 1758918712.5926557,
+          "duration": 0.0643455982208252
+        },
+        "driver_initialization": {
+          "start": 1758918712.5926557,
+          "end": 1758918717.0342884,
+          "duration": 4.4416327476501465
+        },
+        "main_execution_flow": {
+          "start": 1758918717.0342884,
+          "end": 1758918729.238751,
+          "duration": 12.20446252822876
+        },
+        "login_process": {
+          "start": 1758918729.238751,
+          "end": 1758918748.344198,
+          "duration": 19.1054470539093
+        },
+        "api_monitoring": {
+          "start": 1758918761.0566218,
+          "end": 1758918806.2816026,
+          "duration": 45.22498083114624
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 106.60439324378967
+    }
+  },
+  {
+    "timestamp": "2025-09-26T17:35:39.505649",
+    "execution_data": {
+      "execution_id": "20250926_173345",
+      "start_time": "2025-09-26T17:33:45.726766",
+      "end_time": "2025-09-26T17:35:39.491743",
+      "phases": {
+        "initialization": {
+          "start": 1758918825.7267666,
+          "end": 1758918825.7267666,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758918825.7267666,
+          "end": 1758918828.4868119,
+          "duration": 2.760045289993286
+        },
+        "main_execution_flow": {
+          "start": 1758918828.4868119,
+          "end": 1758918837.509174,
+          "duration": 9.022362232208252
+        },
+        "login_process": {
+          "start": 1758918837.509174,
+          "end": 1758918868.9355967,
+          "duration": 31.426422595977783
+        },
+        "api_monitoring": {
+          "start": 1758918881.3511236,
+          "end": 1758918926.7050762,
+          "duration": 45.35395264625549
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 113.76497673988342
+    }
+  },
+  {
+    "timestamp": "2025-09-26T17:36:58.302190",
+    "execution_data": {
+      "execution_id": "20250926_173550",
+      "start_time": "2025-09-26T17:35:50.050203",
+      "end_time": "2025-09-26T17:36:58.290593",
+      "phases": {
+        "initialization": {
+          "start": 1758918950.0502028,
+          "end": 1758918950.0510437,
+          "duration": 0.0008409023284912109
+        },
+        "driver_initialization": {
+          "start": 1758918950.0510437,
+          "end": 1758918952.8683803,
+          "duration": 2.8173365592956543
+        },
+        "main_execution_flow": {
+          "start": 1758918952.8683803,
+          "end": 1758918960.454645,
+          "duration": 7.586264610290527
+        },
+        "api_monitoring": {
+          "start": 1758918960.454645,
+          "end": 1758919005.6168425,
+          "duration": 45.16219758987427
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 68.24039077758789
+    }
+  },
+  {
+    "timestamp": "2025-09-26T18:06:32.397920",
+    "execution_data": {
+      "execution_id": "20250926_180526",
+      "start_time": "2025-09-26T18:05:26.178441",
+      "end_time": "2025-09-26T18:06:32.387922",
+      "phases": {
+        "initialization": {
+          "start": 1758920726.1784418,
+          "end": 1758920726.1794446,
+          "duration": 0.0010027885437011719
+        },
+        "driver_initialization": {
+          "start": 1758920726.1794446,
+          "end": 1758920728.8962307,
+          "duration": 2.7167861461639404
+        },
+        "main_execution_flow": {
+          "start": 1758920728.8962307,
+          "end": 1758920734.5278823,
+          "duration": 5.6316516399383545
+        },
+        "api_monitoring": {
+          "start": 1758920734.5278823,
+          "end": 1758920779.940584,
+          "duration": 45.41270160675049
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 66.20948076248169
+    }
+  },
+  {
+    "timestamp": "2025-09-26T18:13:36.664114",
+    "execution_data": {
+      "execution_id": "20250926_181230",
+      "start_time": "2025-09-26T18:12:30.861367",
+      "end_time": "2025-09-26T18:13:36.649287",
+      "phases": {
+        "initialization": {
+          "start": 1758921150.8613677,
+          "end": 1758921150.8613677,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1758921150.8613677,
+          "end": 1758921153.596051,
+          "duration": 2.7346832752227783
+        },
+        "main_execution_flow": {
+          "start": 1758921153.596051,
+          "end": 1758921158.8802705,
+          "duration": 5.28421950340271
+        },
+        "api_monitoring": {
+          "start": 1758921158.8802705,
+          "end": 1758921204.0552092,
+          "duration": 45.174938678741455
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 65.78791952133179
+    }
+  },
+  {
+    "timestamp": "2025-09-28T14:46:13.128721",
+    "execution_data": {
+      "execution_id": "20250928_144456",
+      "start_time": "2025-09-28T14:44:56.343295",
+      "end_time": "2025-09-28T14:46:13.084759",
+      "phases": {
+        "initialization": {
+          "start": 1759081496.343378,
+          "end": 1759081496.3651273,
+          "duration": 0.021749258041381836
+        },
+        "driver_initialization": {
+          "start": 1759081496.3651273,
+          "end": 1759081505.4214828,
+          "duration": 9.056355476379395
+        },
+        "main_execution_flow": {
+          "start": 1759081505.4214828,
+          "end": 1759081515.2727907,
+          "duration": 9.85130786895752
+        },
+        "api_monitoring": {
+          "start": 1759081515.2727907,
+          "end": 1759081560.541523,
+          "duration": 45.26873230934143
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 76.74138164520264
+    }
+  },
+  {
+    "timestamp": "2025-09-28T14:48:55.249979",
+    "execution_data": {
+      "execution_id": "20250928_144746",
+      "start_time": "2025-09-28T14:47:46.576747",
+      "end_time": "2025-09-28T14:48:55.234463",
+      "phases": {
+        "initialization": {
+          "start": 1759081666.576748,
+          "end": 1759081666.576748,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759081666.576748,
+          "end": 1759081669.4771316,
+          "duration": 2.900383710861206
+        },
+        "main_execution_flow": {
+          "start": 1759081669.4771316,
+          "end": 1759081676.8626153,
+          "duration": 7.385483741760254
+        },
+        "api_monitoring": {
+          "start": 1759081676.8626153,
+          "end": 1759081722.1761916,
+          "duration": 45.313576221466064
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 68.65771555900574
+    }
+  },
+  {
+    "timestamp": "2025-09-28T14:58:02.735703",
+    "execution_data": {
+      "execution_id": "20250928_145653",
+      "start_time": "2025-09-28T14:56:53.860649",
+      "end_time": "2025-09-28T14:58:02.725451",
+      "phases": {
+        "initialization": {
+          "start": 1759082213.86065,
+          "end": 1759082213.86065,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759082213.86065,
+          "end": 1759082216.6525764,
+          "duration": 2.791926383972168
+        },
+        "main_execution_flow": {
+          "start": 1759082216.6525764,
+          "end": 1759082224.392404,
+          "duration": 7.739827632904053
+        },
+        "api_monitoring": {
+          "start": 1759082224.392404,
+          "end": 1759082269.8388708,
+          "duration": 45.44646668434143
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0
+      },
+      "total_duration": 68.8648009300232
+    }
+  },
+  {
+    "timestamp": "2025-09-28T15:55:49.713392",
+    "execution_data": {
+      "execution_id": "20250928_155441",
+      "start_time": "2025-09-28T15:54:41.911338",
+      "end_time": "2025-09-28T15:55:49.702384",
+      "phases": {
+        "initialization": {
+          "start": 1759085681.911339,
+          "end": 1759085681.911339,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759085681.911339,
+          "end": 1759085684.7258456,
+          "duration": 2.8145065307617188
+        },
+        "main_execution_flow": {
+          "start": 1759085684.7258456,
+          "end": 1759085692.07679,
+          "duration": 7.350944519042969
+        },
+        "api_monitoring": {
+          "start": 1759085692.07679,
+          "end": 1759085693.5405302,
+          "duration": 1.4637401103973389
+        },
+        "403_error_handling": {
+          "start": 1759085693.5405302,
+          "end": 1759085698.4475665,
+          "duration": 4.907036304473877
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 1,
+        "session_renewals": 0
+      },
+      "total_duration": 67.79104518890381
+    }
+  },
+  {
+    "timestamp": "2025-09-28T15:58:14.436830",
+    "execution_data": {
+      "execution_id": "20250928_155706",
+      "start_time": "2025-09-28T15:57:06.225632",
+      "end_time": "2025-09-28T15:58:14.425218",
+      "phases": {
+        "initialization": {
+          "start": 1759085826.2256327,
+          "end": 1759085826.2256327,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759085826.2256327,
+          "end": 1759085829.0250306,
+          "duration": 2.7993979454040527
+        },
+        "main_execution_flow": {
+          "start": 1759085829.0250306,
+          "end": 1759085835.1203027,
+          "duration": 6.095272064208984
+        },
+        "api_monitoring": {
+          "start": 1759085835.1203027,
+          "end": 1759085837.112783,
+          "duration": 1.9924802780151367
+        },
+        "403_error_handling": {
+          "start": 1759085845.6594403,
+          "end": 1759085850.838433,
+          "duration": 5.178992748260498
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 2,
+        "session_renewals": 0
+      },
+      "total_duration": 68.1995861530304
+    }
+  },
+  {
+    "timestamp": "2025-09-28T16:17:03.712005",
+    "execution_data": {
+      "execution_id": "20250928_161540",
+      "start_time": "2025-09-28T16:15:40.980472",
+      "end_time": "2025-09-28T16:17:03.699002",
+      "phases": {
+        "initialization": {
+          "start": 1759086940.9804723,
+          "end": 1759086940.9814725,
+          "duration": 0.0010001659393310547
+        },
+        "driver_initialization": {
+          "start": 1759086940.9814725,
+          "end": 1759086943.6887786,
+          "duration": 2.707306146621704
+        },
+        "main_execution_flow": {
+          "start": 1759086943.6887786,
+          "end": 1759086949.8310728,
+          "duration": 6.14229416847229
+        },
+        "api_monitoring": {
+          "start": 1759086949.8310728,
+          "end": 1759087011.2596016,
+          "duration": 61.428528785705566
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 0,
+        "session_renewals": 0,
+        "direct_api_calls": 0
+      },
+      "total_duration": 82.71852993965149
+    }
+  },
+  {
+    "timestamp": "2025-09-28T16:27:42.993581",
+    "execution_data": {
+      "execution_id": "20250928_162621",
+      "start_time": "2025-09-28T16:26:21.137327",
+      "end_time": "2025-09-28T16:27:42.980686",
+      "phases": {
+        "initialization": {
+          "start": 1759087581.137328,
+          "end": 1759087581.137328,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759087581.137328,
+          "end": 1759087584.0310466,
+          "duration": 2.893718719482422
+        },
+        "main_execution_flow": {
+          "start": 1759087584.0310466,
+          "end": 1759087590.2209594,
+          "duration": 6.189912796020508
+        },
+        "api_monitoring": {
+          "start": 1759087590.2209594,
+          "end": 1759087592.2594995,
+          "duration": 2.0385401248931885
+        },
+        "403_error_recovery": {
+          "start": 1759087592.2594995,
+          "end": 1759087599.8677328,
+          "duration": 7.608233213424683
+        },
+        "login_process": {
+          "start": 1759087599.8677328,
+          "end": 1759087615.8329003,
+          "duration": 15.96516752243042
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 1,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 1,
+        "session_recoveries": 0
+      },
+      "total_duration": 81.84335899353027
+    }
+  },
+  {
+    "timestamp": "2025-09-28T16:40:05.805782",
+    "execution_data": {
+      "execution_id": "20250928_163833",
+      "start_time": "2025-09-28T16:38:33.115701",
+      "end_time": "2025-09-28T16:40:05.792732",
+      "phases": {
+        "initialization": {
+          "start": 1759088313.1157014,
+          "end": 1759088313.1168036,
+          "duration": 0.0011022090911865234
+        },
+        "driver_initialization": {
+          "start": 1759088313.1168036,
+          "end": 1759088315.8677468,
+          "duration": 2.750943183898926
+        },
+        "main_execution_flow": {
+          "start": 1759088315.8677468,
+          "end": 1759088333.3705409,
+          "duration": 17.50279402732849
+        },
+        "api_monitoring": {
+          "start": 1759088333.3705409,
+          "end": 1759088333.563248,
+          "duration": 0.19270706176757812
+        },
+        "403_error_recovery": {
+          "start": 1759088333.563248,
+          "end": 1759088360.7275314,
+          "duration": 27.164283514022827
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 1,
+        "session_recoveries": 0
+      },
+      "total_duration": 92.67703104019165
+    }
+  },
+  {
+    "timestamp": "2025-09-28T16:50:38.439115",
+    "execution_data": {
+      "execution_id": "20250928_164905",
+      "start_time": "2025-09-28T16:49:05.971091",
+      "end_time": "2025-09-28T16:50:38.426965",
+      "phases": {
+        "initialization": {
+          "start": 1759088945.9710913,
+          "end": 1759088945.9710913,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759088945.9710913,
+          "end": 1759088949.0427167,
+          "duration": 3.0716254711151123
+        },
+        "main_execution_flow": {
+          "start": 1759088949.0427167,
+          "end": 1759088965.8045337,
+          "duration": 16.76181697845459
+        },
+        "api_monitoring": {
+          "start": 1759088965.8045337,
+          "end": 1759088965.980718,
+          "duration": 0.17618417739868164
+        },
+        "403_error_recovery": {
+          "start": 1759088965.980718,
+          "end": 1759089003.8378015,
+          "duration": 37.857083559036255
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 1,
+        "session_recoveries": 0
+      },
+      "total_duration": 92.45587420463562
+    }
+  },
+  {
+    "timestamp": "2025-09-28T17:10:41.364025",
+    "execution_data": {
+      "execution_id": "20250928_171020",
+      "start_time": "2025-09-28T17:10:20.044223",
+      "end_time": "2025-09-28T17:10:41.306407",
+      "phases": {
+        "initialization": {
+          "start": 1759090220.044223,
+          "end": 1759090220.0595384,
+          "duration": 0.01531529426574707
+        },
+        "driver_initialization": {
+          "start": 1759090220.0595384,
+          "end": 1759090224.7320201,
+          "duration": 4.6724817752838135
+        },
+        "main_execution_flow": {
+          "start": 1759090224.7320201,
+          "end": 1759090229.231755,
+          "duration": 4.499734878540039
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 1,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 0,
+        "session_recoveries": 0,
+        "profile_changes": 0
+      },
+      "total_duration": 21.262184381484985
+    }
+  },
+  {
+    "timestamp": "2025-09-28T17:13:18.492752",
+    "execution_data": {
+      "execution_id": "20250928_171201",
+      "start_time": "2025-09-28T17:12:01.154920",
+      "end_time": "2025-09-28T17:13:18.478087",
+      "phases": {
+        "initialization": {
+          "start": 1759090321.1549199,
+          "end": 1759090321.1559203,
+          "duration": 0.0010004043579101562
+        },
+        "driver_initialization": {
+          "start": 1759090321.1559203,
+          "end": 1759090323.9455366,
+          "duration": 2.789616346359253
+        },
+        "main_execution_flow": {
+          "start": 1759090323.9455366,
+          "end": 1759090351.7415388,
+          "duration": 27.79600214958191
+        },
+        "api_monitoring": {
+          "start": 1759090351.7415388,
+          "end": 1759090368.0624938,
+          "duration": 16.32095503807068
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 0,
+        "session_recoveries": 0,
+        "profile_changes": 0
+      },
+      "total_duration": 77.32316780090332
+    }
+  },
+  {
+    "timestamp": "2025-09-28T19:33:14.389679",
+    "execution_data": {
+      "execution_id": "20250928_193139",
+      "start_time": "2025-09-28T19:31:39.524171",
+      "end_time": "2025-09-28T19:33:14.330908",
+      "phases": {
+        "initialization": {
+          "start": 1759098699.5241718,
+          "end": 1759098699.545893,
+          "duration": 0.02172112464904785
+        },
+        "driver_initialization": {
+          "start": 1759098699.545893,
+          "end": 1759098705.0297658,
+          "duration": 5.483872890472412
+        },
+        "main_execution_flow": {
+          "start": 1759098705.0297658,
+          "end": 1759098721.6144354,
+          "duration": 16.584669589996338
+        },
+        "api_monitoring": {
+          "start": 1759098721.6144354,
+          "end": 1759098781.875178,
+          "duration": 60.26074266433716
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 0,
+        "session_recoveries": 0,
+        "profile_changes": 0
+      },
+      "total_duration": 94.8067364692688
+    }
+  },
+  {
+    "timestamp": "2025-09-28T23:18:21.886812",
+    "execution_data": {
+      "execution_id": "20250928_231650",
+      "start_time": "2025-09-28T23:16:50.699437",
+      "end_time": "2025-09-28T23:18:21.874862",
+      "phases": {
+        "initialization": {
+          "start": 1759112210.6994371,
+          "end": 1759112210.6994371,
+          "duration": 0.0
+        },
+        "driver_initialization": {
+          "start": 1759112210.6994371,
+          "end": 1759112213.5643709,
+          "duration": 2.864933729171753
+        },
+        "main_execution_flow": {
+          "start": 1759112213.5643709,
+          "end": 1759112229.304663,
+          "duration": 15.740292072296143
+        },
+        "api_monitoring": {
+          "start": 1759112229.304663,
+          "end": 1759112289.449023,
+          "duration": 60.144360065460205
+        }
+      },
+      "metrics": {
+        "request_count": 0,
+        "error_count": 0,
+        "page_loads": 2,
+        "login_attempts": 0,
+        "cache_hits": 0,
+        "api_calls": 0,
+        "403_errors": 0,
+        "session_recoveries": 0,
+        "profile_changes": 0
+      },
+      "total_duration": 91.1754252910614
+    }
+  }
+]

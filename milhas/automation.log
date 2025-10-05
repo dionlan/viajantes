@@ -1,0 +1,1706 @@
+[INFO] 2025-09-23 00:10:29,503 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 00:10:29,503 - ====== WebDriver manager ======
+[INFO] 2025-09-23 00:10:31,112 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 00:10:31,207 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 00:10:31,290 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 00:10:31,543 - WebDriver version 140.0.7339.185 selected
+[INFO] 2025-09-23 00:10:31,553 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.185/win32/chromedriver-win32.zip
+[INFO] 2025-09-23 00:10:31,554 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.185/win32/chromedriver-win32.zip
+[INFO] 2025-09-23 00:10:31,690 - Driver downloading response is 200
+[INFO] 2025-09-23 00:10:33,238 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 00:10:34,210 - Driver has been saved in cache [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185]
+[INFO] 2025-09-23 00:10:37,220 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 00:10:37,227 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 00:10:43,008 - 🔐 Estado de login: Logado
+[INFO] 2025-09-23 00:10:43,009 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-23 00:10:43,141 - ✅ Interceptação JavaScript configurada
+[WARNING] 2025-09-23 00:11:03,077 - ⏰ Timeout após 20s sem resposta da API
+[ERROR] 2025-09-23 00:11:03,078 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 00:11:03,078 - 💥 Automação falhou
+[INFO] 2025-09-23 00:11:03,078 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 00:11:05,625 - ✅ Navegador fechado
+[INFO] 2025-09-23 09:43:30,094 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 09:43:30,095 - ====== WebDriver manager ======
+[INFO] 2025-09-23 09:43:32,320 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:43:32,467 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:43:32,547 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 09:43:35,603 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 09:43:35,607 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 09:43:42,793 - ✅ Página carregada completamente
+[INFO] 2025-09-23 09:43:42,804 - 🔐 Estado de login: Não logado
+[INFO] 2025-09-23 09:43:42,806 - 🔐 Usuário não logado - seria necessário login
+[INFO] 2025-09-23 09:43:42,806 - 🎯 Iniciando monitoramento da API (timeout: 25s)
+[INFO] 2025-09-23 09:43:42,822 - ✅ Interceptação JavaScript avançada configurada
+[INFO] 2025-09-23 09:43:42,826 - 🔄 Tentando forçar chamada da API...
+[WARNING] 2025-09-23 09:43:42,840 - ⚠️ Não foi possível forçar API: Erro: Failed to execute 'querySelectorAll' on 'Document': 'button[data-testid*="search"], button[data-testid*="buscar"], button:contains("Buscar"), button:contains("Pesquisar"), .search-button, .btn-search' is not a valid selector.
+[INFO] 2025-09-23 09:43:54,202 - ✅ Resposta da API obtida com sucesso!
+[INFO] 2025-09-23 09:43:54,203 - 🎉 Automação concluída com sucesso!
+[INFO] 2025-09-23 09:43:54,203 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 09:43:57,216 - ✅ Navegador fechado
+[INFO] 2025-09-23 09:44:56,865 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 09:44:56,865 - ====== WebDriver manager ======
+[INFO] 2025-09-23 09:44:58,066 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:44:58,147 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:44:58,224 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 09:44:59,877 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 09:44:59,880 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 09:45:06,691 - ✅ Página carregada completamente
+[INFO] 2025-09-23 09:45:06,806 - 🔐 Estado de login: Não logado
+[INFO] 2025-09-23 09:45:06,812 - 🔐 Usuário não logado - seria necessário login
+[INFO] 2025-09-23 09:45:06,813 - 🎯 Iniciando monitoramento da API (timeout: 25s)
+[INFO] 2025-09-23 09:45:06,838 - ✅ Interceptação JavaScript avançada configurada
+[INFO] 2025-09-23 09:45:06,839 - 🔄 Tentando forçar chamada da API...
+[WARNING] 2025-09-23 09:45:06,859 - ⚠️ Não foi possível forçar API: Erro: Failed to execute 'querySelectorAll' on 'Document': 'button[data-testid*="search"], button[data-testid*="buscar"], button:contains("Buscar"), button:contains("Pesquisar"), .search-button, .btn-search' is not a valid selector.
+[INFO] 2025-09-23 09:45:11,933 - ✅ Resposta da API obtida com sucesso!
+[INFO] 2025-09-23 09:45:11,934 - 🎉 Automação concluída com sucesso!
+[INFO] 2025-09-23 09:45:11,935 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 09:45:14,675 - ✅ Navegador fechado
+[INFO] 2025-09-23 09:57:06,098 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 09:57:06,099 - ====== WebDriver manager ======
+[INFO] 2025-09-23 09:57:07,416 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:57:07,494 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:57:07,568 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 09:57:09,263 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 09:57:09,264 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 09:57:15,408 - ✅ Página carregada completamente
+[INFO] 2025-09-23 09:57:15,437 - 🔐 Estado de login: NÃO LOGADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button' is not a valid selector.)
+[INFO] 2025-09-23 09:57:15,438 - 🔐 Status final: NÃO LOGADO
+[INFO] 2025-09-23 09:57:15,438 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-23 09:57:15,457 - ✅ Interceptação JavaScript avançada configurada
+[INFO] 2025-09-23 09:57:26,637 - ✅ Resposta da API obtida com sucesso!
+[INFO] 2025-09-23 09:57:26,638 - 💡 A API respondeu - sessão VÁLIDA (detecção de login foi falsa negativa)
+[INFO] 2025-09-23 09:57:26,638 - 🎉 Automação concluída com sucesso!
+[INFO] 2025-09-23 09:57:26,642 - 🔐 Status final de login: VALIDADO
+[INFO] 2025-09-23 09:57:26,642 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 09:57:29,327 - ✅ Navegador fechado
+[INFO] 2025-09-23 09:59:27,908 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 09:59:27,909 - ====== WebDriver manager ======
+[INFO] 2025-09-23 09:59:29,470 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:59:29,564 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 09:59:29,647 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 09:59:31,217 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 09:59:31,225 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 09:59:37,609 - ✅ Página carregada completamente
+[INFO] 2025-09-23 09:59:37,622 - 🔐 Estado de login: NÃO LOGADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button' is not a valid selector.)
+[INFO] 2025-09-23 09:59:37,627 - 🔐 Status final: NÃO LOGADO
+[INFO] 2025-09-23 09:59:37,628 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-23 09:59:37,646 - ✅ Interceptação JavaScript avançada configurada
+[INFO] 2025-09-23 09:59:49,352 - ✅ Resposta da API obtida com sucesso!
+[INFO] 2025-09-23 09:59:49,358 - 💡 A API respondeu - sessão VÁLIDA (detecção de login foi falsa negativa)
+[INFO] 2025-09-23 09:59:49,362 - 🎉 Automação concluída com sucesso!
+[INFO] 2025-09-23 09:59:49,366 - 🔐 Status final de login: VALIDADO
+[INFO] 2025-09-23 09:59:49,374 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 09:59:52,221 - ✅ Navegador fechado
+[INFO] 2025-09-23 10:02:08,461 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 10:02:08,463 - ====== WebDriver manager ======
+[INFO] 2025-09-23 10:02:09,939 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 10:02:10,027 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 10:02:10,106 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 10:02:11,897 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 10:02:11,898 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 10:02:17,430 - ✅ Página carregada completamente
+[INFO] 2025-09-23 10:02:17,546 - 🔐 Estado de login: NÃO LOGADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button' is not a valid selector.)
+[INFO] 2025-09-23 10:02:17,548 - 🔐 Status final: NÃO LOGADO
+[INFO] 2025-09-23 10:02:17,551 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-23 10:02:17,562 - ✅ Interceptação JavaScript avançada configurada
+[INFO] 2025-09-23 10:02:21,463 - ✅ Resposta da API obtida com sucesso!
+[INFO] 2025-09-23 10:02:21,464 - 💡 A API respondeu - sessão VÁLIDA (detecção de login foi falsa negativa)
+[INFO] 2025-09-23 10:02:21,465 - 🎉 Automação concluída com sucesso!
+[INFO] 2025-09-23 10:02:21,474 - 🔐 Status final de login: VALIDADO
+[INFO] 2025-09-23 10:02:21,475 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 10:02:24,327 - ✅ Navegador fechado
+[INFO] 2025-09-23 12:22:01,969 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 12:22:01,973 - ====== WebDriver manager ======
+[INFO] 2025-09-23 12:22:04,869 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:22:04,987 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:22:05,076 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 12:22:07,352 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 12:22:07,353 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 12:22:27,123 - ✅ Página carregada completamente
+[INFO] 2025-09-23 12:22:27,393 - 🔐 Estado de login: NÃO LOGADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button' is not a valid selector.)
+[INFO] 2025-09-23 12:22:27,394 - 🔐 Status final: NÃO LOGADO
+[INFO] 2025-09-23 12:22:27,394 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-23 12:22:27,470 - ✅ Interceptação JavaScript avançada configurada
+[WARNING] 2025-09-23 12:22:47,435 - ⏰ Timeout após 20s sem resposta da API
+[ERROR] 2025-09-23 12:22:47,436 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 12:22:47,436 - 💥 Automação falhou
+[INFO] 2025-09-23 12:22:47,436 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 12:22:50,184 - ✅ Navegador fechado
+[INFO] 2025-09-23 12:23:15,657 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 12:23:15,658 - ====== WebDriver manager ======
+[INFO] 2025-09-23 12:23:20,178 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:23:20,281 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:23:20,371 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 12:23:23,712 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 12:23:23,713 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-23 12:23:34,041 - ✅ Página carregada completamente
+[INFO] 2025-09-23 12:23:34,118 - 🔐 Estado de login: NÃO LOGADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button' is not a valid selector.)
+[INFO] 2025-09-23 12:23:34,121 - 🔐 Status final: NÃO LOGADO
+[INFO] 2025-09-23 12:23:34,121 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-23 12:23:34,325 - ✅ Interceptação JavaScript avançada configurada
+[WARNING] 2025-09-23 12:23:54,196 - ⏰ Timeout após 20s sem resposta da API
+[ERROR] 2025-09-23 12:23:54,197 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 12:23:54,197 - 💥 Automação falhou
+[INFO] 2025-09-23 12:23:54,198 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 12:23:57,536 - ✅ Navegador fechado
+[INFO] 2025-09-23 12:56:03,321 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 12:56:03,322 - ====== WebDriver manager ======
+[INFO] 2025-09-23 12:56:05,137 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:56:05,223 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:56:05,303 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 12:56:07,004 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 12:56:07,009 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 12:56:19,083 - ✅ Página carregada completamente
+[INFO] 2025-09-23 12:56:53,260 - 🔐 Estado de login: INDETERMINADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button, [data-testid="login-button"]' is not a valid selector.)
+[INFO] 2025-09-23 12:56:53,260 - 🔐 Estado de login indeterminado - tentando continuar...
+[INFO] 2025-09-23 12:56:53,260 - 🎯 Monitorando resposta da API (timeout: 25s)
+[INFO] 2025-09-23 12:56:53,274 - ✅ Interceptação JavaScript configurada
+[WARNING] 2025-09-23 12:57:18,275 - ⏰ Timeout após 25s sem resposta da API
+[ERROR] 2025-09-23 12:57:18,275 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 12:57:18,276 - 💥 Automação falhou
+[INFO] 2025-09-23 12:57:18,276 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 12:57:21,145 - ✅ Navegador fechado
+[INFO] 2025-09-23 12:58:51,607 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 12:58:51,611 - ====== WebDriver manager ======
+[INFO] 2025-09-23 12:58:54,825 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:58:54,917 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 12:58:55,005 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 12:58:57,100 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-23 12:58:57,100 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 12:59:23,085 - ✅ Página carregada completamente
+[INFO] 2025-09-23 12:59:59,741 - 🔐 Estado de login: INDETERMINADO (Failed to execute 'querySelectorAll' on 'Document': 'input[type="password"], input[type="email"], #form-input--password, #form-input--alias, button[data-testid*="login"], button:contains("Entrar"), button:contains("Login"), .login-form, #login-button, [data-testid="login-button"]' is not a valid selector.)
+[INFO] 2025-09-23 12:59:59,742 - 🔐 Estado de login indeterminado - tentando continuar...
+[INFO] 2025-09-23 12:59:59,743 - 🎯 Monitorando resposta da API (timeout: 25s)
+[INFO] 2025-09-23 12:59:59,874 - ✅ Interceptação JavaScript configurada
+[WARNING] 2025-09-23 13:00:38,643 - ⏰ Timeout após 25s sem resposta da API
+[ERROR] 2025-09-23 13:00:38,648 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 13:00:38,648 - 💥 Automação falhou
+[INFO] 2025-09-23 13:00:38,649 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 13:00:42,964 - ✅ Navegador fechado
+[INFO] 2025-09-23 13:24:14,391 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 13:24:14,391 - ====== WebDriver manager ======
+[INFO] 2025-09-23 13:24:17,407 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:24:17,523 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:24:17,602 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 13:24:19,638 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 13:24:20,822 - ✅ Tentando abrir DevTools automaticamente...
+[INFO] 2025-09-23 13:24:22,824 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 13:24:34,601 - ✅ Página carregada completamente
+[INFO] 2025-09-23 13:24:34,769 - 🔐 Estado de login: LOGIN NECESSÁRIO (login_page_or_elements)
+[INFO] 2025-09-23 13:24:34,793 - 🔐 Login necessário - executando fluxo de autenticação
+[INFO] 2025-09-23 13:24:34,796 - 🔑 Iniciando fluxo de login da LATAM...
+[INFO] 2025-09-23 13:24:35,691 - ✅ Formulário de login carregado
+[INFO] 2025-09-23 13:24:36,182 - ✅ Email preenchido
+[INFO] 2025-09-23 13:24:38,218 - ✅ Continuar clicado
+[INFO] 2025-09-23 13:24:44,516 - ✅ Formulário de senha carregado
+[INFO] 2025-09-23 13:24:44,904 - ✅ Senha preenchida
+[INFO] 2025-09-23 13:24:45,618 - ✅ Fazer login clicado
+[INFO] 2025-09-23 13:24:45,619 - ⏳ Aguardando redirecionamento pós-login...
+[WARNING] 2025-09-23 13:24:50,644 - ⚠️ URL após login: https://accounts.latamairlines.com/login?state=hKFo2SA5MzJPVEtncWRnOHdUNS1ETWlONjV0TGhQcW1Sc3FUOaFupWxvZ2luo3RpZNkgdUNkV2JXRnp0SDN2QlppNmt6cVR1RTB0SnZnbUhYeVKjY2lk2SA4V1M3MFFoNllyTGRSaDM3bmpSOU9tMHFoUFYxTGVBNg&client=8WS70Qh6YrLdRh37njR9Om0qhPV1LeA6&protocol=oauth2&scope=openid%20email%20profile&lang=pt&country=br&originalCountry=br&nonce=0e5b05673cb7616b29230c23ba5320ec&response_type=code&redirect_uri=https%3A%2F%2Fwww.latamairlines.com%2Fcallback
+[INFO] 2025-09-23 13:24:50,655 - 🔄 Navegando para URL alvo após login...
+[INFO] 2025-09-23 13:25:10,211 - ✅ Página carregada completamente
+[INFO] 2025-09-23 13:25:10,212 - 🎯 Monitorando resposta da API (timeout: 30s)
+[INFO] 2025-09-23 13:25:10,287 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-23 13:25:15,314 - ⏳ Aguardando API... (5.0s)
+[INFO] 2025-09-23 13:25:15,414 - ⏳ Aguardando API... (5.1s)
+[INFO] 2025-09-23 13:25:15,515 - ⏳ Aguardando API... (5.2s)
+[INFO] 2025-09-23 13:25:15,624 - ⏳ Aguardando API... (5.3s)
+[INFO] 2025-09-23 13:25:15,725 - ⏳ Aguardando API... (5.4s)
+[INFO] 2025-09-23 13:25:15,827 - ⏳ Aguardando API... (5.5s)
+[INFO] 2025-09-23 13:25:15,929 - ⏳ Aguardando API... (5.6s)
+[INFO] 2025-09-23 13:25:16,030 - ⏳ Aguardando API... (5.7s)
+[INFO] 2025-09-23 13:25:16,141 - ⏳ Aguardando API... (5.8s)
+[INFO] 2025-09-23 13:25:16,242 - ⏳ Aguardando API... (5.9s)
+[INFO] 2025-09-23 13:25:20,509 - ⏳ Aguardando API... (10.2s)
+[INFO] 2025-09-23 13:25:20,610 - ⏳ Aguardando API... (10.3s)
+[INFO] 2025-09-23 13:25:20,711 - ⏳ Aguardando API... (10.4s)
+[INFO] 2025-09-23 13:25:20,812 - ⏳ Aguardando API... (10.5s)
+[INFO] 2025-09-23 13:25:20,915 - ⏳ Aguardando API... (10.6s)
+[INFO] 2025-09-23 13:25:21,032 - ⏳ Aguardando API... (10.7s)
+[INFO] 2025-09-23 13:25:21,133 - ⏳ Aguardando API... (10.8s)
+[INFO] 2025-09-23 13:25:21,234 - ⏳ Aguardando API... (10.9s)
+[INFO] 2025-09-23 13:25:25,390 - ⏳ Aguardando API... (15.0s)
+[INFO] 2025-09-23 13:25:25,501 - ⏳ Aguardando API... (15.2s)
+[INFO] 2025-09-23 13:25:25,602 - ⏳ Aguardando API... (15.3s)
+[INFO] 2025-09-23 13:25:25,702 - ⏳ Aguardando API... (15.4s)
+[INFO] 2025-09-23 13:25:25,885 - ⏳ Aguardando API... (15.5s)
+[INFO] 2025-09-23 13:25:25,987 - ⏳ Aguardando API... (15.7s)
+[INFO] 2025-09-23 13:25:26,088 - ⏳ Aguardando API... (15.8s)
+[INFO] 2025-09-23 13:25:26,189 - ⏳ Aguardando API... (15.9s)
+[INFO] 2025-09-23 13:25:26,293 - ⏳ Aguardando API... (16.0s)
+[INFO] 2025-09-23 13:25:30,396 - ⏳ Aguardando API... (20.1s)
+[INFO] 2025-09-23 13:25:30,535 - ⏳ Aguardando API... (20.2s)
+[INFO] 2025-09-23 13:25:30,857 - ⏳ Aguardando API... (20.4s)
+[INFO] 2025-09-23 13:25:30,963 - ⏳ Aguardando API... (20.7s)
+[INFO] 2025-09-23 13:25:31,066 - ⏳ Aguardando API... (20.8s)
+[INFO] 2025-09-23 13:25:31,167 - ⏳ Aguardando API... (20.9s)
+[INFO] 2025-09-23 13:25:31,307 - ⏳ Aguardando API... (21.0s)
+[INFO] 2025-09-23 13:25:35,395 - ⏳ Aguardando API... (25.1s)
+[INFO] 2025-09-23 13:25:35,520 - ⏳ Aguardando API... (25.2s)
+[INFO] 2025-09-23 13:25:35,621 - ⏳ Aguardando API... (25.3s)
+[INFO] 2025-09-23 13:25:35,722 - ⏳ Aguardando API... (25.4s)
+[INFO] 2025-09-23 13:25:35,824 - ⏳ Aguardando API... (25.5s)
+[INFO] 2025-09-23 13:25:35,926 - ⏳ Aguardando API... (25.6s)
+[INFO] 2025-09-23 13:25:36,323 - ⏳ Aguardando API... (25.7s)
+[WARNING] 2025-09-23 13:25:40,247 - ⏰ Timeout após 30s sem resposta da API
+[ERROR] 2025-09-23 13:25:40,247 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 13:25:40,247 - 💥 Automação falhou
+[INFO] 2025-09-23 13:25:40,248 - ⏳ Mantendo browser aberto por 10 segundos para inspeção...
+[INFO] 2025-09-23 13:25:50,251 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 13:25:53,461 - ✅ Navegador fechado
+[INFO] 2025-09-23 13:34:00,980 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 13:34:00,981 - ====== WebDriver manager ======
+[INFO] 2025-09-23 13:34:04,519 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:34:04,615 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:34:04,700 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 13:34:08,967 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 13:34:08,969 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 13:34:31,229 - ✅ Página carregada completamente
+[INFO] 2025-09-23 13:34:31,612 - 🔐 Estado de login: LOGIN NECESSÁRIO (login_page_or_elements)
+[INFO] 2025-09-23 13:34:31,617 - 🔐 Login necessário - executando fluxo de autenticação
+[INFO] 2025-09-23 13:34:31,620 - 🔑 Iniciando fluxo de login da LATAM...
+[INFO] 2025-09-23 13:34:31,735 - ✅ Formulário de login carregado
+[INFO] 2025-09-23 13:34:33,110 - ✅ Email preenchido
+[INFO] 2025-09-23 13:34:35,622 - ✅ Continuar clicado
+[INFO] 2025-09-23 13:34:46,331 - ✅ Formulário de senha carregado
+[INFO] 2025-09-23 13:34:46,978 - ✅ Senha preenchida
+[INFO] 2025-09-23 13:34:47,872 - ✅ Fazer login clicado
+[INFO] 2025-09-23 13:34:47,875 - ⏳ Aguardando redirecionamento pós-login...
+[INFO] 2025-09-23 13:35:15,741 - ✅ Redirecionado para página de ofertas: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15:00:00.000Z&destination=CGH&inbound=undefined&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[ERROR] 2025-09-23 13:35:15,742 - ❌ Fluxo de login falhou
+[ERROR] 2025-09-23 13:35:15,743 - 💥 Automação falhou
+[INFO] 2025-09-23 13:35:15,743 - ⏳ Mantendo browser aberto por 10 segundos para inspeção...
+[INFO] 2025-09-23 13:35:25,745 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 13:35:29,491 - ✅ Navegador fechado
+[INFO] 2025-09-23 13:40:34,025 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 13:40:34,027 - ====== WebDriver manager ======
+[INFO] 2025-09-23 13:40:36,006 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:40:36,235 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:40:36,321 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 13:40:38,473 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 13:40:38,503 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 13:40:41,128 - ✅ Página carregada completamente
+[INFO] 2025-09-23 13:40:41,311 - 🔐 Estado de login: PROBABLY_LOGGED_IN (on_target_page)
+[INFO] 2025-09-23 13:40:41,319 - 🔐 Estado de login indeterminado - tentando continuar...
+[INFO] 2025-09-23 13:40:41,323 - 🎯 Monitorando resposta da API (timeout: 30s)
+[INFO] 2025-09-23 13:40:41,339 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-23 13:40:46,596 - ⏳ Aguardando API... (5.2s)
+[INFO] 2025-09-23 13:40:46,700 - ⏳ Aguardando API... (5.3s)
+[INFO] 2025-09-23 13:40:46,801 - ⏳ Aguardando API... (5.4s)
+[INFO] 2025-09-23 13:40:46,902 - ⏳ Aguardando API... (5.5s)
+[INFO] 2025-09-23 13:40:47,051 - ⏳ Aguardando API... (5.6s)
+[INFO] 2025-09-23 13:40:47,205 - ⏳ Aguardando API... (5.7s)
+[INFO] 2025-09-23 13:40:47,399 - ⏳ Aguardando API... (5.9s)
+[INFO] 2025-09-23 13:40:51,476 - ⏳ Aguardando API... (10.1s)
+[INFO] 2025-09-23 13:40:51,577 - ⏳ Aguardando API... (10.2s)
+[INFO] 2025-09-23 13:40:51,678 - ⏳ Aguardando API... (10.3s)
+[INFO] 2025-09-23 13:40:51,806 - ⏳ Aguardando API... (10.4s)
+[INFO] 2025-09-23 13:40:51,908 - ⏳ Aguardando API... (10.5s)
+[INFO] 2025-09-23 13:40:52,010 - ⏳ Aguardando API... (10.6s)
+[INFO] 2025-09-23 13:40:52,112 - ⏳ Aguardando API... (10.7s)
+[INFO] 2025-09-23 13:40:52,213 - ⏳ Aguardando API... (10.8s)
+[INFO] 2025-09-23 13:40:52,328 - ⏳ Aguardando API... (10.9s)
+[INFO] 2025-09-23 13:40:56,463 - ⏳ Aguardando API... (15.0s)
+[INFO] 2025-09-23 13:40:56,593 - ⏳ Aguardando API... (15.2s)
+[INFO] 2025-09-23 13:40:56,918 - ⏳ Aguardando API... (15.3s)
+[INFO] 2025-09-23 13:40:57,028 - ⏳ Aguardando API... (15.6s)
+[INFO] 2025-09-23 13:40:57,129 - ⏳ Aguardando API... (15.7s)
+[INFO] 2025-09-23 13:40:57,252 - ⏳ Aguardando API... (15.8s)
+[INFO] 2025-09-23 13:40:57,353 - ⏳ Aguardando API... (15.9s)
+[INFO] 2025-09-23 13:41:01,454 - ⏳ Aguardando API... (20.0s)
+[INFO] 2025-09-23 13:41:01,554 - ⏳ Aguardando API... (20.1s)
+[INFO] 2025-09-23 13:41:01,656 - ⏳ Aguardando API... (20.2s)
+[INFO] 2025-09-23 13:41:01,757 - ⏳ Aguardando API... (20.3s)
+[INFO] 2025-09-23 13:41:01,864 - ⏳ Aguardando API... (20.4s)
+[INFO] 2025-09-23 13:41:01,984 - ⏳ Aguardando API... (20.5s)
+[INFO] 2025-09-23 13:41:02,088 - ⏳ Aguardando API... (20.7s)
+[INFO] 2025-09-23 13:41:02,190 - ⏳ Aguardando API... (20.8s)
+[INFO] 2025-09-23 13:41:02,295 - ⏳ Aguardando API... (20.9s)
+[INFO] 2025-09-23 13:41:02,397 - ⏳ Aguardando API... (21.0s)
+[INFO] 2025-09-23 13:41:06,458 - ⏳ Aguardando API... (25.0s)
+[INFO] 2025-09-23 13:41:06,560 - ⏳ Aguardando API... (25.1s)
+[INFO] 2025-09-23 13:41:06,660 - ⏳ Aguardando API... (25.2s)
+[INFO] 2025-09-23 13:41:06,771 - ⏳ Aguardando API... (25.3s)
+[INFO] 2025-09-23 13:41:06,872 - ⏳ Aguardando API... (25.4s)
+[INFO] 2025-09-23 13:41:06,973 - ⏳ Aguardando API... (25.5s)
+[INFO] 2025-09-23 13:41:07,074 - ⏳ Aguardando API... (25.7s)
+[INFO] 2025-09-23 13:41:07,178 - ⏳ Aguardando API... (25.8s)
+[INFO] 2025-09-23 13:41:07,394 - ⏳ Aguardando API... (25.9s)
+[WARNING] 2025-09-23 13:41:11,410 - ⏰ Timeout após 30s sem resposta da API
+[ERROR] 2025-09-23 13:41:11,410 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 13:41:11,411 - 💥 Automação falhou
+[INFO] 2025-09-23 13:41:11,411 - ⏳ Mantendo browser aberto por 10 segundos para inspeção...
+[INFO] 2025-09-23 13:41:41,413 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 13:41:44,094 - ✅ Navegador fechado
+[INFO] 2025-09-23 13:42:14,467 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 13:42:14,468 - ====== WebDriver manager ======
+[INFO] 2025-09-23 13:42:19,068 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:42:19,177 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:42:19,290 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 13:42:23,571 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 13:42:23,575 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[ERROR] 2025-09-23 13:43:01,350 - 💥 Erro no fluxo principal: Message: timeout: Timed out receiving message from renderer: 28.952
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x470c13+66051]
+	GetHandleVerifier [0x0x470c54+66116]
+	(No symbol) [0x0x24db33]
+	(No symbol) [0x0x23e364]
+	(No symbol) [0x0x23e09a]
+	(No symbol) [0x0x23bfa0]
+	(No symbol) [0x0x23ca87]
+	(No symbol) [0x0x2496ae]
+	(No symbol) [0x0x25b055]
+	(No symbol) [0x0x260c06]
+	(No symbol) [0x0x23d106]
+	(No symbol) [0x0x25adbe]
+	(No symbol) [0x0x2dbb30]
+	(No symbol) [0x0x2b9d86]
+	(No symbol) [0x0x28b53e]
+	(No symbol) [0x0x28c414]
+	GetHandleVerifier [0x0x6b8a13+2457603]
+	GetHandleVerifier [0x0x6b39d2+2437058]
+	GetHandleVerifier [0x0x4997f2+232930]
+	GetHandleVerifier [0x0x489a18+167944]
+	GetHandleVerifier [0x0x49092d+196381]
+	GetHandleVerifier [0x0x478ee8+99544]
+	GetHandleVerifier [0x0x479082+99954]
+	GetHandleVerifier [0x0x46322a+10266]
+	BaseThreadInitThunk [0x0x7690fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774a827e+238]
+
+[ERROR] 2025-09-23 13:43:01,416 - 💥 Automação falhou
+[INFO] 2025-09-23 13:43:01,604 - ⏳ Mantendo browser aberto por 10 segundos para inspeção...
+[INFO] 2025-09-23 13:43:31,640 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 13:43:35,546 - ✅ Navegador fechado
+[INFO] 2025-09-23 13:50:34,108 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 13:50:34,108 - ====== WebDriver manager ======
+[INFO] 2025-09-23 13:50:35,966 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:50:36,059 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 13:50:36,138 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 13:50:38,183 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 13:50:38,222 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 13:50:53,357 - ✅ Página carregada completamente
+[INFO] 2025-09-23 13:50:54,043 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-23 13:50:54,049 - 🎯 Monitorando API com captura detalhada (timeout: 40s)
+[WARNING] 2025-09-23 13:50:54,259 - ⚠️ Interceptação CDP não suportada: Message: unknown command: 'Network.requestIntercepted' wasn't found
+  (Session info: chrome=140.0.7339.128)
+Stacktrace:
+	GetHandleVerifier [0x0x470c13+66051]
+	GetHandleVerifier [0x0x470c54+66116]
+	(No symbol) [0x0x24db33]
+	(No symbol) [0x0x23d8f0]
+	(No symbol) [0x0x23c1f5]
+	(No symbol) [0x0x23ca87]
+	(No symbol) [0x0x23ca28]
+	(No symbol) [0x0x25230a]
+	(No symbol) [0x0x2e6b91]
+	(No symbol) [0x0x2b9f8c]
+	(No symbol) [0x0x2db7f1]
+	(No symbol) [0x0x2b9d86]
+	(No symbol) [0x0x28b53e]
+	(No symbol) [0x0x28c414]
+	GetHandleVerifier [0x0x6b8a13+2457603]
+	GetHandleVerifier [0x0x6b39d2+2437058]
+	GetHandleVerifier [0x0x4997f2+232930]
+	GetHandleVerifier [0x0x489a18+167944]
+	GetHandleVerifier [0x0x49092d+196381]
+	GetHandleVerifier [0x0x478ee8+99544]
+	GetHandleVerifier [0x0x479082+99954]
+	GetHandleVerifier [0x0x46322a+10266]
+	BaseThreadInitThunk [0x0x7690fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774a827e+238]
+
+[INFO] 2025-09-23 13:50:59,230 - ⏳ Monitorando... (5.1s) - Requests capturados: 0
+[INFO] 2025-09-23 13:50:59,344 - ⏳ Monitorando... (5.2s) - Requests capturados: 0
+[INFO] 2025-09-23 13:50:59,485 - ⏳ Monitorando... (5.3s) - Requests capturados: 0
+[INFO] 2025-09-23 13:50:59,598 - ⏳ Monitorando... (5.4s) - Requests capturados: 0
+[INFO] 2025-09-23 13:50:59,701 - ⏳ Monitorando... (5.6s) - Requests capturados: 0
+[INFO] 2025-09-23 13:50:59,805 - ⏳ Monitorando... (5.7s) - Requests capturados: 0
+[INFO] 2025-09-23 13:50:59,915 - ⏳ Monitorando... (5.8s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:00,021 - ⏳ Monitorando... (5.9s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:00,146 - ⏳ Monitorando... (6.0s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,211 - ⏳ Monitorando... (10.1s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,321 - ⏳ Monitorando... (10.2s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,426 - ⏳ Monitorando... (10.3s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,552 - ⏳ Monitorando... (10.4s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,655 - ⏳ Monitorando... (10.5s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,756 - ⏳ Monitorando... (10.6s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,860 - ⏳ Monitorando... (10.7s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:04,970 - ⏳ Monitorando... (10.8s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:05,074 - ⏳ Monitorando... (10.9s) - Requests capturados: 0
+[INFO] 2025-09-23 13:51:07,323 - 📡 Request capturado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-23 13:51:07,325 - 📋 Headers importantes da requisição:
+[INFO] 2025-09-23 13:51:07,326 -    Accept: application/json, text/plain, */*...
+[INFO] 2025-09-23 13:51:07,326 -    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Sa...
+[INFO] 2025-09-23 13:51:07,327 -    X-latam-Action-Name: search-result.flightselection.offers-search-redemption...
+[INFO] 2025-09-23 13:51:07,327 -    X-latam-App-Session-Id: 612de0fa-7093-4886-ab3c-ae68dab3f045...
+[INFO] 2025-09-23 13:51:07,328 -    X-latam-Application-Country: BR...
+[INFO] 2025-09-23 13:51:07,328 -    X-latam-Application-Lang: pt...
+[INFO] 2025-09-23 13:51:07,329 -    X-latam-Application-Name: web-air-offers...
+[INFO] 2025-09-23 13:51:07,389 -    X-latam-Application-Oc: br...
+[INFO] 2025-09-23 13:51:07,457 -    X-latam-Client-Name: web-air-offers...
+[INFO] 2025-09-23 13:51:07,459 -    X-latam-Request-Id: 46476633-51f1-4259-a28b-208af77899e9...
+[INFO] 2025-09-23 13:51:07,490 -    X-latam-Track-Id: 083282f0-fa82-4b59-8258-8341e190f47b...
+[INFO] 2025-09-23 13:51:07,491 -    x-latam-captcha-token: 0cAFcWeA5uG62D1g0k3Lz1fGrkt1m2eSulLe648YNTs6K1m8lmPHDvb37cZbfOGQNOisjyyLH0MazFUyzwtRcAKjN2QjDK3zzyrL...
+[INFO] 2025-09-23 13:51:07,493 -    x-latam-device-width: 2182...
+[INFO] 2025-09-23 13:51:07,495 -    x-latam-search-token: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiQlIiLCJsYW5ndWFnZSI6IlBUIiwiZGVzdGluYXRpb24iOiJ...
+[INFO] 2025-09-23 13:51:09,188 - ⏳ Monitorando... (15.0s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,293 - ⏳ Monitorando... (15.1s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,394 - ⏳ Monitorando... (15.2s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,511 - ⏳ Monitorando... (15.3s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,612 - ⏳ Monitorando... (15.5s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,714 - ⏳ Monitorando... (15.6s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,814 - ⏳ Monitorando... (15.7s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:09,924 - ⏳ Monitorando... (15.8s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:10,047 - ⏳ Monitorando... (15.9s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:14,334 - ⏳ Monitorando... (20.1s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:14,447 - ⏳ Monitorando... (20.3s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:14,579 - ⏳ Monitorando... (20.4s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:14,685 - ⏳ Monitorando... (20.5s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:14,818 - ⏳ Monitorando... (20.6s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:14,930 - ⏳ Monitorando... (20.8s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:15,032 - ⏳ Monitorando... (20.9s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:15,135 - ⏳ Monitorando... (21.0s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:19,389 - ⏳ Monitorando... (25.2s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:19,757 - ⏳ Monitorando... (25.5s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:19,922 - ⏳ Monitorando... (25.8s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:20,085 - ⏳ Monitorando... (25.9s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,173 - ⏳ Monitorando... (30.0s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,295 - ⏳ Monitorando... (30.1s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,406 - ⏳ Monitorando... (30.3s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,510 - ⏳ Monitorando... (30.4s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,611 - ⏳ Monitorando... (30.5s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,712 - ⏳ Monitorando... (30.6s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,822 - ⏳ Monitorando... (30.7s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:24,942 - ⏳ Monitorando... (30.8s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:25,043 - ⏳ Monitorando... (30.9s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:25,144 - ⏳ Monitorando... (31.0s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:29,162 - ⏳ Monitorando... (35.0s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:29,278 - ⏳ Monitorando... (35.1s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:29,500 - ⏳ Monitorando... (35.2s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:29,731 - ⏳ Monitorando... (35.5s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:29,832 - ⏳ Monitorando... (35.7s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:29,934 - ⏳ Monitorando... (35.8s) - Requests capturados: 1
+[INFO] 2025-09-23 13:51:30,045 - ⏳ Monitorando... (35.9s) - Requests capturados: 1
+[WARNING] 2025-09-23 13:51:34,065 - ⏰ Timeout após 40s
+[ERROR] 2025-09-23 13:51:34,080 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 13:51:34,099 - 💥 Automação falhou
+[INFO] 2025-09-23 13:51:34,100 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-23 13:52:04,107 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 13:52:09,245 - ✅ Navegador fechado
+[INFO] 2025-09-23 14:56:37,718 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 14:56:37,771 - ====== WebDriver manager ======
+[INFO] 2025-09-23 14:56:42,803 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 14:56:42,948 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 14:56:43,038 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 14:56:47,485 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 14:56:47,487 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[WARNING] 2025-09-23 14:57:19,036 - ⚠️ Timeout no carregamento da página
+[ERROR] 2025-09-23 14:57:19,067 - 💥 Automação falhou
+[INFO] 2025-09-23 14:57:19,072 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-23 14:57:29,127 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 14:57:33,251 - ✅ Navegador fechado
+[INFO] 2025-09-23 14:58:04,746 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-23 14:58:04,748 - ====== WebDriver manager ======
+[INFO] 2025-09-23 14:58:07,835 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 14:58:07,934 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-23 14:58:08,017 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-23 14:58:11,952 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-23 14:58:11,953 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-23 14:58:32,443 - ✅ Página carregada completamente
+[INFO] 2025-09-23 14:58:32,596 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-23 14:58:32,598 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-23 14:58:32,728 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-23 14:58:38,537 - ⏳ Monitorando... (5.2s)
+[INFO] 2025-09-23 14:58:39,072 - ⏳ Monitorando... (5.9s)
+[INFO] 2025-09-23 14:58:42,786 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-23 14:58:42,824 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-23 14:58:45,326 - ⏳ Monitorando... (10.1s)
+[INFO] 2025-09-23 14:58:46,294 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-23 14:58:46,329 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-23 14:58:48,411 - ⏳ Monitorando... (15.3s)
+[INFO] 2025-09-23 14:58:48,970 - ⏳ Monitorando... (15.8s)
+[INFO] 2025-09-23 14:58:52,966 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-23 14:58:52,998 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-23 14:58:55,500 - ⏳ Monitorando... (20.3s)
+[INFO] 2025-09-23 14:58:58,266 - ⏳ Monitorando... (25.1s)
+[INFO] 2025-09-23 14:58:58,787 - ⏳ Monitorando... (25.7s)
+[INFO] 2025-09-23 14:59:03,050 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-23 14:59:03,088 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-23 14:59:05,699 - ⏳ Monitorando... (30.4s)
+[INFO] 2025-09-23 14:59:08,642 - ⏳ Monitorando... (35.5s)
+[INFO] 2025-09-23 14:59:13,185 - ⏳ Monitorando... (40.1s)
+[INFO] 2025-09-23 14:59:13,213 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-23 14:59:13,274 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-23 14:59:15,876 - ⏳ Monitorando... (40.6s)
+[WARNING] 2025-09-23 14:59:17,672 - ⏰ Timeout após 45s
+[ERROR] 2025-09-23 14:59:17,688 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-23 14:59:17,689 - 💥 Automação falhou
+[INFO] 2025-09-23 14:59:17,691 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-23 14:59:27,696 - 🔚 Fechando navegador...
+[INFO] 2025-09-23 14:59:31,489 - ✅ Navegador fechado
+[INFO] 2025-09-26 16:23:06,316 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 16:23:06,345 - ====== WebDriver manager ======
+[INFO] 2025-09-26 16:23:07,866 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:23:07,992 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:23:08,071 - There is no [win64] chromedriver "140.0.7339.207" for browser google-chrome "140.0.7339" in cache
+[INFO] 2025-09-26 16:23:08,071 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:23:08,294 - WebDriver version 140.0.7339.207 selected
+[INFO] 2025-09-26 16:23:08,299 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+[INFO] 2025-09-26 16:23:08,299 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+[INFO] 2025-09-26 16:23:08,457 - Driver downloading response is 200
+[INFO] 2025-09-26 16:23:10,198 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:23:11,355 - Driver has been saved in cache [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+[INFO] 2025-09-26 16:23:14,342 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 16:23:14,343 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[ERROR] 2025-09-26 16:23:44,350 - 💥 Erro no fluxo principal: Message: timeout: Timed out receiving message from renderer: 28.225
+  (Session info: chrome=140.0.7339.186)
+Stacktrace:
+	GetHandleVerifier [0x0x65c333+65459]
+	GetHandleVerifier [0x0x65c374+65524]
+	(No symbol) [0x0x47d973]
+	(No symbol) [0x0x46e184]
+	(No symbol) [0x0x46deba]
+	(No symbol) [0x0x46bdc0]
+	(No symbol) [0x0x46c8a7]
+	(No symbol) [0x0x4794fe]
+	(No symbol) [0x0x48aec5]
+	(No symbol) [0x0x490a56]
+	(No symbol) [0x0x46cf26]
+	(No symbol) [0x0x48ab6e]
+	(No symbol) [0x0x50b8e8]
+	(No symbol) [0x0x4e9bf6]
+	(No symbol) [0x0x4bb38e]
+	(No symbol) [0x0x4bc274]
+	GetHandleVerifier [0x0x8deda3+2697763]
+	GetHandleVerifier [0x0x8d9ec7+2677575]
+	GetHandleVerifier [0x0x684194+228884]
+	GetHandleVerifier [0x0x6749f8+165496]
+	GetHandleVerifier [0x0x67b18d+192013]
+	GetHandleVerifier [0x0x6647d8+99416]
+	GetHandleVerifier [0x0x664972+99826]
+	GetHandleVerifier [0x0x64ebea+10346]
+	BaseThreadInitThunk [0x0x7577fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x770982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7709827e+238]
+
+[ERROR] 2025-09-26 16:23:44,356 - 💥 Automação falhou
+[INFO] 2025-09-26 16:23:44,357 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 16:23:54,358 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 16:23:58,659 - ✅ Navegador fechado
+[INFO] 2025-09-26 16:24:19,252 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 16:24:19,252 - ====== WebDriver manager ======
+[INFO] 2025-09-26 16:24:20,261 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:24:20,371 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:24:20,462 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 16:24:22,001 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-26 16:24:22,001 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-26 16:24:28,017 - 🔐 Estado de login: Não logado
+[INFO] 2025-09-26 16:24:28,018 - 🔐 Usuário não logado - iniciando autenticação
+[INFO] 2025-09-26 16:24:28,018 - 🔑 Iniciando processo de login...
+[INFO] 2025-09-26 16:24:28,342 - ✅ Email preenchido
+[ERROR] 2025-09-26 16:24:30,385 - ❌ Falha no login: Message: javascript error: fillField is not defined
+  (Session info: chrome=140.0.7339.186)
+Stacktrace:
+	GetHandleVerifier [0x0x65c333+65459]
+	GetHandleVerifier [0x0x65c374+65524]
+	(No symbol) [0x0x47d973]
+	(No symbol) [0x0x484330]
+	(No symbol) [0x0x4869cc]
+	(No symbol) [0x0x50c654]
+	(No symbol) [0x0x4e9dfc]
+	(No symbol) [0x0x50b606]
+	(No symbol) [0x0x4e9bf6]
+	(No symbol) [0x0x4bb38e]
+	(No symbol) [0x0x4bc274]
+	GetHandleVerifier [0x0x8deda3+2697763]
+	GetHandleVerifier [0x0x8d9ec7+2677575]
+	GetHandleVerifier [0x0x684194+228884]
+	GetHandleVerifier [0x0x6749f8+165496]
+	GetHandleVerifier [0x0x67b18d+192013]
+	GetHandleVerifier [0x0x6647d8+99416]
+	GetHandleVerifier [0x0x664972+99826]
+	GetHandleVerifier [0x0x64ebea+10346]
+	BaseThreadInitThunk [0x0x7577fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x770982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7709827e+238]
+
+[ERROR] 2025-09-26 16:24:30,394 - ❌ Falha no processo de login
+[INFO] 2025-09-26 16:24:30,394 - 🔄 Continuando sem login...
+[INFO] 2025-09-26 16:24:30,395 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-26 16:24:30,410 - ✅ Interceptação JavaScript configurada
+[WARNING] 2025-09-26 16:24:50,501 - ⏰ Timeout após 20s sem resposta da API
+[ERROR] 2025-09-26 16:24:50,501 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 16:24:50,501 - 💥 Automação falhou
+[INFO] 2025-09-26 16:24:50,502 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 16:24:53,037 - ✅ Navegador fechado
+[INFO] 2025-09-26 16:24:58,466 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 16:24:58,466 - ====== WebDriver manager ======
+[INFO] 2025-09-26 16:24:59,497 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:24:59,582 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:24:59,657 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 16:25:01,114 - ✅ Navegador iniciado com otimizações
+[INFO] 2025-09-26 16:25:01,115 - 🌐 Navegando para página de ofertas...
+[INFO] 2025-09-26 16:25:18,118 - 🔐 Estado de login: Não logado
+[INFO] 2025-09-26 16:25:18,118 - 🔐 Usuário não logado - iniciando autenticação
+[INFO] 2025-09-26 16:25:18,118 - 🔑 Iniciando processo de login...
+[INFO] 2025-09-26 16:25:19,075 - ✅ Email preenchido
+[ERROR] 2025-09-26 16:25:21,167 - ❌ Falha no login: Message: javascript error: fillField is not defined
+  (Session info: chrome=140.0.7339.186)
+Stacktrace:
+	GetHandleVerifier [0x0x65c333+65459]
+	GetHandleVerifier [0x0x65c374+65524]
+	(No symbol) [0x0x47d973]
+	(No symbol) [0x0x484330]
+	(No symbol) [0x0x4869cc]
+	(No symbol) [0x0x50c654]
+	(No symbol) [0x0x4e9dfc]
+	(No symbol) [0x0x50b606]
+	(No symbol) [0x0x4e9bf6]
+	(No symbol) [0x0x4bb38e]
+	(No symbol) [0x0x4bc274]
+	GetHandleVerifier [0x0x8deda3+2697763]
+	GetHandleVerifier [0x0x8d9ec7+2677575]
+	GetHandleVerifier [0x0x684194+228884]
+	GetHandleVerifier [0x0x6749f8+165496]
+	GetHandleVerifier [0x0x67b18d+192013]
+	GetHandleVerifier [0x0x6647d8+99416]
+	GetHandleVerifier [0x0x664972+99826]
+	GetHandleVerifier [0x0x64ebea+10346]
+	BaseThreadInitThunk [0x0x7577fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x770982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7709827e+238]
+
+[ERROR] 2025-09-26 16:25:21,170 - ❌ Falha no processo de login
+[INFO] 2025-09-26 16:25:21,170 - 🔄 Continuando sem login...
+[INFO] 2025-09-26 16:25:21,171 - 🎯 Monitorando resposta da API (timeout: 20s)
+[INFO] 2025-09-26 16:25:21,180 - ✅ Interceptação JavaScript configurada
+[WARNING] 2025-09-26 16:25:41,186 - ⏰ Timeout após 20s sem resposta da API
+[ERROR] 2025-09-26 16:25:41,187 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 16:25:41,187 - 💥 Automação falhou
+[INFO] 2025-09-26 16:25:41,187 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 16:25:43,571 - ✅ Navegador fechado
+[INFO] 2025-09-26 16:28:33,946 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 16:28:33,946 - ====== WebDriver manager ======
+[INFO] 2025-09-26 16:28:35,675 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:28:35,755 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:28:35,831 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 16:28:37,533 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 16:28:37,534 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 16:29:09,292 - ✅ Página carregada completamente
+[INFO] 2025-09-26 16:29:10,650 - 🔐 Estado de login: LOGIN NECESSÁRIO
+[INFO] 2025-09-26 16:29:10,650 - 🔐 Login necessário - executando fluxo de autenticação
+[INFO] 2025-09-26 16:29:10,651 - 🔑 Iniciando fluxo de login da LATAM...
+[INFO] 2025-09-26 16:29:11,323 - ✅ Email preenchido
+[INFO] 2025-09-26 16:29:11,925 - ✅ Continuar clicado
+[INFO] 2025-09-26 16:29:20,700 - ✅ Senha preenchida
+[INFO] 2025-09-26 16:29:21,604 - ✅ Fazer login clicado
+[INFO] 2025-09-26 16:29:21,604 - ⏳ Aguardando redirecionamento pós-login...
+[INFO] 2025-09-26 16:29:31,664 - ✅ Redirecionado para: https://accounts.latamairlines.com/login?state=hKFo2SBFWHhvTFlwMnQtOHhQXzNWUjJFSHIxckNxMWM1YXR0aaFupWxvZ2luo3RpZNkgR25xSTBYLXJmRngwNnVoYXBIQl85ZzJpYkxiREpmNy2jY2lk2SA4V1M3MFFoNllyTGRSaDM3bmpSOU9tMHFoUFYxTGVBNg&client=8WS70Qh6YrLdRh37njR9Om0qhPV1LeA6&protocol=oauth2&scope=openid%20email%20profile&lang=pt&country=br&originalCountry=br&nonce=c17cf5dac208bca54ea3aad703bae885&response_type=code&redirect_uri=https%3A%2F%2Fwww.latamairlines.com%2Fcallback
+[INFO] 2025-09-26 16:29:31,674 - 🔄 Navegando para URL alvo após login...
+[INFO] 2025-09-26 16:29:43,625 - ✅ Página carregada completamente
+[INFO] 2025-09-26 16:29:43,626 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 16:29:43,775 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 16:29:49,493 - ⏳ Monitorando... (5.3s)
+[INFO] 2025-09-26 16:29:50,004 - ⏳ Monitorando... (5.9s)
+[INFO] 2025-09-26 16:29:54,175 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 16:29:54,235 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 16:29:56,737 - ⏳ Monitorando... (10.4s)
+[INFO] 2025-09-26 16:29:59,347 - ⏳ Monitorando... (15.2s)
+[INFO] 2025-09-26 16:29:59,862 - ⏳ Monitorando... (15.7s)
+[INFO] 2025-09-26 16:30:04,555 - ⏳ Monitorando... (20.4s)
+[INFO] 2025-09-26 16:30:04,568 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 16:30:04,585 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 16:30:07,086 - ⏳ Monitorando... (20.9s)
+[INFO] 2025-09-26 16:30:09,716 - ⏳ Monitorando... (25.5s)
+[INFO] 2025-09-26 16:30:14,239 - ⏳ Monitorando... (30.1s)
+[INFO] 2025-09-26 16:30:14,755 - ⏳ Monitorando... (30.6s)
+[INFO] 2025-09-26 16:30:14,766 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 16:30:14,781 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 16:30:19,339 - ⏳ Monitorando... (35.2s)
+[INFO] 2025-09-26 16:30:19,870 - ⏳ Monitorando... (35.7s)
+[INFO] 2025-09-26 16:30:24,542 - ⏳ Monitorando... (40.4s)
+[INFO] 2025-09-26 16:30:25,070 - ⏳ Monitorando... (40.9s)
+[INFO] 2025-09-26 16:30:25,082 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 16:30:25,091 - ✅ Trigger executado - clique: False
+[WARNING] 2025-09-26 16:30:28,629 - ⏰ Timeout após 45s
+[ERROR] 2025-09-26 16:30:28,632 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 16:30:28,632 - 💥 Automação falhou
+[INFO] 2025-09-26 16:30:28,632 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 16:30:38,633 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 16:30:41,229 - ✅ Navegador fechado
+[INFO] 2025-09-26 16:50:34,017 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 16:50:34,017 - ====== WebDriver manager ======
+[INFO] 2025-09-26 16:50:35,102 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:50:35,181 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 16:50:35,253 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 16:50:36,955 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 16:50:36,956 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[ERROR] 2025-09-26 16:51:06,970 - 💥 Erro no fluxo principal: Message: timeout: Timed out receiving message from renderer: 28.126
+  (Session info: chrome=140.0.7339.186)
+Stacktrace:
+	GetHandleVerifier [0x0x65c333+65459]
+	GetHandleVerifier [0x0x65c374+65524]
+	(No symbol) [0x0x47d973]
+	(No symbol) [0x0x46e184]
+	(No symbol) [0x0x46deba]
+	(No symbol) [0x0x46bdc0]
+	(No symbol) [0x0x46c8a7]
+	(No symbol) [0x0x4794fe]
+	(No symbol) [0x0x48aec5]
+	(No symbol) [0x0x490a56]
+	(No symbol) [0x0x46cf26]
+	(No symbol) [0x0x48ab6e]
+	(No symbol) [0x0x50b8e8]
+	(No symbol) [0x0x4e9bf6]
+	(No symbol) [0x0x4bb38e]
+	(No symbol) [0x0x4bc274]
+	GetHandleVerifier [0x0x8deda3+2697763]
+	GetHandleVerifier [0x0x8d9ec7+2677575]
+	GetHandleVerifier [0x0x684194+228884]
+	GetHandleVerifier [0x0x6749f8+165496]
+	GetHandleVerifier [0x0x67b18d+192013]
+	GetHandleVerifier [0x0x6647d8+99416]
+	GetHandleVerifier [0x0x664972+99826]
+	GetHandleVerifier [0x0x64ebea+10346]
+	BaseThreadInitThunk [0x0x7577fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x770982ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7709827e+238]
+
+[ERROR] 2025-09-26 16:51:06,987 - 💥 Automação falhou
+[INFO] 2025-09-26 16:51:06,989 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 16:51:16,990 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 16:51:19,379 - ✅ Navegador fechado
+[INFO] 2025-09-26 17:31:52,528 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 17:31:52,592 - ====== WebDriver manager ======
+[INFO] 2025-09-26 17:31:53,990 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:31:54,111 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:31:54,187 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 17:31:57,030 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 17:31:57,034 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 17:32:09,160 - ✅ Página carregada completamente
+[INFO] 2025-09-26 17:32:09,237 - 🔐 Estado de login: LOGIN NECESSÁRIO
+[INFO] 2025-09-26 17:32:09,238 - 🔐 Login necessário - executando fluxo de autenticação
+[INFO] 2025-09-26 17:32:09,238 - 🔑 Iniciando fluxo de login da LATAM...
+[INFO] 2025-09-26 17:32:10,219 - ✅ Email preenchido
+[INFO] 2025-09-26 17:32:11,439 - ✅ Continuar clicado
+[INFO] 2025-09-26 17:32:17,783 - ✅ Senha preenchida
+[INFO] 2025-09-26 17:32:18,289 - ✅ Fazer login clicado
+[INFO] 2025-09-26 17:32:18,289 - ⏳ Aguardando redirecionamento pós-login...
+[INFO] 2025-09-26 17:32:28,342 - ✅ Redirecionado para: https://accounts.latamairlines.com/login?state=hKFo2SAtTGZrS0RqdDJneUNHTG9SbGljd0FEQTJOaGx4UVhJeqFupWxvZ2luo3RpZNkgR3pKc0V4dGU2ZjVqTFNkU0VrOFM4aGphaGFJZEF4ZEejY2lk2SA4V1M3MFFoNllyTGRSaDM3bmpSOU9tMHFoUFYxTGVBNg&client=8WS70Qh6YrLdRh37njR9Om0qhPV1LeA6&protocol=oauth2&scope=openid%20email%20profile&lang=pt&country=br&originalCountry=br&nonce=71b9a401f055b10819fe98c6a5ac037a&response_type=code&redirect_uri=https%3A%2F%2Fwww.latamairlines.com%2Fcallback
+[INFO] 2025-09-26 17:32:28,353 - 🔄 Navegando para URL alvo após login...
+[INFO] 2025-09-26 17:32:41,056 - ✅ Página carregada completamente
+[INFO] 2025-09-26 17:32:41,056 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 17:32:41,168 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 17:32:46,930 - ⏳ Monitorando... (5.4s)
+[INFO] 2025-09-26 17:32:47,444 - ⏳ Monitorando... (5.9s)
+[INFO] 2025-09-26 17:32:51,542 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:32:51,560 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:32:54,061 - ⏳ Monitorando... (10.5s)
+[INFO] 2025-09-26 17:32:56,625 - ⏳ Monitorando... (15.1s)
+[INFO] 2025-09-26 17:32:57,136 - ⏳ Monitorando... (15.6s)
+[INFO] 2025-09-26 17:33:01,733 - ⏳ Monitorando... (20.2s)
+[INFO] 2025-09-26 17:33:01,743 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:33:01,756 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:33:04,257 - ⏳ Monitorando... (20.7s)
+[INFO] 2025-09-26 17:33:06,824 - ⏳ Monitorando... (25.3s)
+[INFO] 2025-09-26 17:33:07,339 - ⏳ Monitorando... (25.8s)
+[INFO] 2025-09-26 17:33:11,949 - ⏳ Monitorando... (30.4s)
+[INFO] 2025-09-26 17:33:11,960 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:33:11,973 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:33:14,475 - ⏳ Monitorando... (30.9s)
+[INFO] 2025-09-26 17:33:17,610 - ⏳ Monitorando... (35.5s)
+[INFO] 2025-09-26 17:33:21,701 - ⏳ Monitorando... (40.1s)
+[INFO] 2025-09-26 17:33:22,212 - ⏳ Monitorando... (40.6s)
+[INFO] 2025-09-26 17:33:22,225 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:33:22,237 - ✅ Trigger executado - clique: False
+[WARNING] 2025-09-26 17:33:26,280 - ⏰ Timeout após 45s
+[ERROR] 2025-09-26 17:33:26,281 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 17:33:26,292 - 💥 Automação falhou
+[INFO] 2025-09-26 17:33:26,295 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 17:33:36,298 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 17:33:39,131 - ✅ Navegador fechado
+[INFO] 2025-09-26 17:33:45,726 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 17:33:45,726 - ====== WebDriver manager ======
+[INFO] 2025-09-26 17:33:46,738 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:33:46,820 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:33:46,895 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 17:33:48,484 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 17:33:48,486 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 17:33:57,499 - ✅ Página carregada completamente
+[INFO] 2025-09-26 17:33:57,509 - 🔐 Estado de login: LOGIN NECESSÁRIO
+[INFO] 2025-09-26 17:33:57,509 - 🔐 Login necessário - executando fluxo de autenticação
+[INFO] 2025-09-26 17:33:57,509 - 🔑 Iniciando fluxo de login da LATAM...
+[INFO] 2025-09-26 17:34:10,468 - ✅ Email preenchido
+[INFO] 2025-09-26 17:34:11,525 - ✅ Continuar clicado
+[INFO] 2025-09-26 17:34:18,550 - ✅ Senha preenchida
+[INFO] 2025-09-26 17:34:18,905 - ✅ Fazer login clicado
+[INFO] 2025-09-26 17:34:18,906 - ⏳ Aguardando redirecionamento pós-login...
+[INFO] 2025-09-26 17:34:28,934 - ✅ Redirecionado para: https://accounts.latamairlines.com/login?state=hKFo2SBOdEZXX1F6WUZOdXczMjZLVExDcldyVnQtM21jcUZKYaFupWxvZ2luo3RpZNkgY2VsQWNfcW1XeTVNSkxpOGlKbGVtanRWQmZqclFRMXSjY2lk2SA4V1M3MFFoNllyTGRSaDM3bmpSOU9tMHFoUFYxTGVBNg&client=8WS70Qh6YrLdRh37njR9Om0qhPV1LeA6&protocol=oauth2&scope=openid%20email%20profile&lang=pt&country=br&originalCountry=br&nonce=8cfe94d5f2a1feba222e0b6ae780d5a6&response_type=code&redirect_uri=https%3A%2F%2Fwww.latamairlines.com%2Fcallback
+[INFO] 2025-09-26 17:34:28,943 - 🔄 Navegando para URL alvo após login...
+[INFO] 2025-09-26 17:34:41,351 - ✅ Página carregada completamente
+[INFO] 2025-09-26 17:34:41,351 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 17:34:41,508 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 17:34:46,912 - ⏳ Monitorando... (5.0s)
+[INFO] 2025-09-26 17:34:47,427 - ⏳ Monitorando... (5.6s)
+[INFO] 2025-09-26 17:34:51,530 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:34:51,539 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:34:54,041 - ⏳ Monitorando... (10.2s)
+[INFO] 2025-09-26 17:34:57,151 - ⏳ Monitorando... (15.3s)
+[INFO] 2025-09-26 17:34:57,664 - ⏳ Monitorando... (15.8s)
+[INFO] 2025-09-26 17:35:01,938 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:35:01,947 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:35:04,449 - ⏳ Monitorando... (20.6s)
+[INFO] 2025-09-26 17:35:07,564 - ⏳ Monitorando... (25.5s)
+[INFO] 2025-09-26 17:35:22,066 - ⏳ Monitorando... (30.2s)
+[INFO] 2025-09-26 17:35:22,103 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:35:22,141 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:35:24,643 - ⏳ Monitorando... (40.7s)
+[WARNING] 2025-09-26 17:35:26,704 - ⏰ Timeout após 45s
+[ERROR] 2025-09-26 17:35:26,705 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 17:35:26,705 - 💥 Automação falhou
+[INFO] 2025-09-26 17:35:26,705 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 17:35:36,706 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 17:35:39,491 - ✅ Navegador fechado
+[INFO] 2025-09-26 17:35:50,050 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 17:35:50,051 - ====== WebDriver manager ======
+[INFO] 2025-09-26 17:35:51,088 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:35:51,165 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:35:51,247 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 17:35:52,867 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 17:35:52,868 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 17:36:00,439 - ✅ Página carregada completamente
+[INFO] 2025-09-26 17:36:00,453 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-26 17:36:00,454 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 17:36:00,480 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 17:36:02,420 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-26 17:36:02,436 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-26 17:36:06,242 - ⏳ Monitorando... (5.3s)
+[INFO] 2025-09-26 17:36:06,753 - ⏳ Monitorando... (5.8s)
+[INFO] 2025-09-26 17:36:10,894 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:36:10,903 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:36:13,407 - ⏳ Monitorando... (10.4s)
+[INFO] 2025-09-26 17:36:15,968 - ⏳ Monitorando... (15.0s)
+[INFO] 2025-09-26 17:36:16,479 - ⏳ Monitorando... (15.5s)
+[INFO] 2025-09-26 17:36:21,089 - ⏳ Monitorando... (20.1s)
+[INFO] 2025-09-26 17:36:21,098 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:36:21,110 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:36:23,612 - ⏳ Monitorando... (20.6s)
+[INFO] 2025-09-26 17:36:26,221 - ⏳ Monitorando... (25.2s)
+[INFO] 2025-09-26 17:36:26,732 - ⏳ Monitorando... (25.8s)
+[INFO] 2025-09-26 17:36:31,345 - ⏳ Monitorando... (30.4s)
+[INFO] 2025-09-26 17:36:31,354 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:36:31,365 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 17:36:33,867 - ⏳ Monitorando... (30.9s)
+[INFO] 2025-09-26 17:36:36,426 - ⏳ Monitorando... (35.5s)
+[INFO] 2025-09-26 17:36:36,938 - ⏳ Monitorando... (36.0s)
+[INFO] 2025-09-26 17:36:41,044 - ⏳ Monitorando... (40.1s)
+[INFO] 2025-09-26 17:36:41,555 - ⏳ Monitorando... (40.6s)
+[INFO] 2025-09-26 17:36:41,568 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 17:36:41,578 - ✅ Trigger executado - clique: False
+[WARNING] 2025-09-26 17:36:45,616 - ⏰ Timeout após 45s
+[ERROR] 2025-09-26 17:36:45,616 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 17:36:45,616 - 💥 Automação falhou
+[INFO] 2025-09-26 17:36:45,617 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 17:36:55,619 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 17:36:58,290 - ✅ Navegador fechado
+[INFO] 2025-09-26 17:44:34,601 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 17:44:34,601 - ====== WebDriver manager ======
+[INFO] 2025-09-26 17:44:35,631 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:44:35,718 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 17:44:35,799 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 17:44:37,308 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 17:44:37,309 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 17:44:43,806 - ✅ Página carregada completamente
+[INFO] 2025-09-26 17:44:43,818 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-26 17:44:43,819 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 17:44:43,839 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 17:44:45,908 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-26 17:44:45,910 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-26 17:44:49,810 - ⏳ Monitorando... (5.5s)
+[INFO] 2025-09-26 17:44:50,314 - ⏳ Monitorando... (6.0s)
+[INFO] 2025-09-26 17:44:50,952 - ⏹️ Execução interrompida pelo usuário
+[INFO] 2025-09-26 17:44:50,952 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 18:05:26,178 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 18:05:26,179 - ====== WebDriver manager ======
+[INFO] 2025-09-26 18:05:27,191 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 18:05:27,299 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 18:05:27,391 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 18:05:28,896 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 18:05:28,896 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 18:05:34,517 - ✅ Página carregada completamente
+[INFO] 2025-09-26 18:05:34,527 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-26 18:05:34,528 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 18:05:34,558 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 18:05:34,800 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-26 18:05:34,801 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-26 18:05:40,430 - ⏳ Monitorando... (5.4s)
+[INFO] 2025-09-26 18:05:40,936 - ⏳ Monitorando... (5.9s)
+[INFO] 2025-09-26 18:05:45,001 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:05:45,007 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 18:05:47,509 - ⏳ Monitorando... (10.5s)
+[INFO] 2025-09-26 18:05:50,045 - ⏳ Monitorando... (15.0s)
+[INFO] 2025-09-26 18:05:50,553 - ⏳ Monitorando... (15.5s)
+[INFO] 2025-09-26 18:05:55,115 - ⏳ Monitorando... (20.1s)
+[INFO] 2025-09-26 18:05:55,121 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:05:55,128 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 18:05:57,630 - ⏳ Monitorando... (20.6s)
+[INFO] 2025-09-26 18:06:00,197 - ⏳ Monitorando... (25.2s)
+[INFO] 2025-09-26 18:06:00,705 - ⏳ Monitorando... (25.7s)
+[INFO] 2025-09-26 18:06:05,268 - ⏳ Monitorando... (30.2s)
+[INFO] 2025-09-26 18:06:05,274 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:06:05,282 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 18:06:07,784 - ⏳ Monitorando... (30.7s)
+[INFO] 2025-09-26 18:06:10,321 - ⏳ Monitorando... (35.3s)
+[INFO] 2025-09-26 18:06:10,829 - ⏳ Monitorando... (35.8s)
+[INFO] 2025-09-26 18:06:15,394 - ⏳ Monitorando... (40.4s)
+[INFO] 2025-09-26 18:06:15,400 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:06:15,408 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 18:06:17,910 - ⏳ Monitorando... (40.9s)
+[WARNING] 2025-09-26 18:06:19,940 - ⏰ Timeout após 45s
+[ERROR] 2025-09-26 18:06:19,940 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 18:06:19,940 - 💥 Automação falhou
+[INFO] 2025-09-26 18:06:19,941 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 18:06:29,942 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 18:06:32,387 - ✅ Navegador fechado
+[INFO] 2025-09-26 18:12:30,861 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-26 18:12:30,862 - ====== WebDriver manager ======
+[INFO] 2025-09-26 18:12:31,902 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 18:12:32,012 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-26 18:12:32,085 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-26 18:12:33,596 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-26 18:12:33,596 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-26 18:12:38,869 - ✅ Página carregada completamente
+[INFO] 2025-09-26 18:12:38,880 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-26 18:12:38,880 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-26 18:12:38,889 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-26 18:12:39,565 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-26 18:12:39,565 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-26 18:12:44,690 - ⏳ Monitorando... (5.3s)
+[INFO] 2025-09-26 18:12:45,198 - ⏳ Monitorando... (5.8s)
+[INFO] 2025-09-26 18:12:49,273 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:12:49,280 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 18:12:51,781 - ⏳ Monitorando... (10.4s)
+[INFO] 2025-09-26 18:12:59,423 - ⏳ Monitorando... (20.0s)
+[INFO] 2025-09-26 18:12:59,432 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:12:59,600 - ✅ Trigger executado - clique: True
+[INFO] 2025-09-26 18:13:02,102 - ⏳ Monitorando... (20.5s)
+[INFO] 2025-09-26 18:13:04,700 - ⏳ Monitorando... (25.3s)
+[INFO] 2025-09-26 18:13:05,207 - ⏳ Monitorando... (25.8s)
+[INFO] 2025-09-26 18:13:10,316 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:13:10,327 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-26 18:13:18,081 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-26 18:13:18,087 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-26 18:13:19,800 - ⏳ Monitorando... (40.4s)
+[INFO] 2025-09-26 18:13:20,371 - ⏳ Monitorando... (40.9s)
+[INFO] 2025-09-26 18:13:20,380 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-26 18:13:20,509 - ✅ Trigger executado - clique: True
+[WARNING] 2025-09-26 18:13:24,055 - ⏰ Timeout após 45s
+[ERROR] 2025-09-26 18:13:24,055 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-26 18:13:24,055 - 💥 Automação falhou
+[INFO] 2025-09-26 18:13:24,056 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-26 18:13:34,056 - 🔚 Fechando navegador...
+[INFO] 2025-09-26 18:13:36,649 - ✅ Navegador fechado
+[INFO] 2025-09-28 14:44:56,343 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 14:44:56,365 - ====== WebDriver manager ======
+[INFO] 2025-09-28 14:44:57,813 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:44:57,963 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:44:58,068 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:44:58,304 - WebDriver version 140.0.7339.207 selected
+[INFO] 2025-09-28 14:44:58,342 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+[INFO] 2025-09-28 14:44:58,404 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+[INFO] 2025-09-28 14:44:58,603 - Driver downloading response is 200
+[INFO] 2025-09-28 14:45:00,958 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:45:02,111 - Driver has been saved in cache [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+[INFO] 2025-09-28 14:45:05,420 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 14:45:05,421 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 14:45:14,952 - ✅ Página carregada completamente
+[INFO] 2025-09-28 14:45:15,271 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 14:45:15,272 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-28 14:45:15,287 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 14:45:18,625 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 14:45:18,626 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-28 14:45:21,285 - ⏳ Monitorando... (5.5s)
+[INFO] 2025-09-28 14:45:25,383 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:45:25,393 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:45:27,894 - ⏳ Monitorando... (10.1s)
+[INFO] 2025-09-28 14:45:30,969 - ⏳ Monitorando... (15.2s)
+[INFO] 2025-09-28 14:45:31,479 - ⏳ Monitorando... (15.7s)
+[INFO] 2025-09-28 14:45:35,576 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:45:35,586 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:45:38,087 - ⏳ Monitorando... (20.3s)
+[INFO] 2025-09-28 14:45:41,173 - ⏳ Monitorando... (25.4s)
+[INFO] 2025-09-28 14:45:41,683 - ⏳ Monitorando... (25.9s)
+[INFO] 2025-09-28 14:45:45,762 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:45:45,769 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:45:48,271 - ⏳ Monitorando... (30.5s)
+[INFO] 2025-09-28 14:45:50,829 - ⏳ Monitorando... (35.0s)
+[INFO] 2025-09-28 14:45:51,338 - ⏳ Monitorando... (35.6s)
+[INFO] 2025-09-28 14:45:55,923 - ⏳ Monitorando... (40.1s)
+[INFO] 2025-09-28 14:45:55,932 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:45:55,944 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:45:58,445 - ⏳ Monitorando... (40.7s)
+[WARNING] 2025-09-28 14:46:00,541 - ⏰ Timeout após 45s
+[ERROR] 2025-09-28 14:46:00,541 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 14:46:00,541 - 💥 Automação falhou
+[INFO] 2025-09-28 14:46:00,542 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 14:46:10,543 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 14:46:13,084 - ✅ Navegador fechado
+[INFO] 2025-09-28 14:47:46,576 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 14:47:46,577 - ====== WebDriver manager ======
+[INFO] 2025-09-28 14:47:47,691 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:47:47,795 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:47:47,880 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 14:47:49,476 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 14:47:49,477 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 14:47:56,512 - ✅ Página carregada completamente
+[INFO] 2025-09-28 14:47:56,861 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 14:47:56,862 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-28 14:47:56,876 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 14:48:00,435 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 14:48:00,438 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-28 14:48:02,538 - ⏳ Monitorando... (5.2s)
+[INFO] 2025-09-28 14:48:03,052 - ⏳ Monitorando... (5.7s)
+[INFO] 2025-09-28 14:48:07,179 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:48:07,189 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:48:09,691 - ⏳ Monitorando... (10.3s)
+[INFO] 2025-09-28 14:48:12,829 - ⏳ Monitorando... (15.4s)
+[INFO] 2025-09-28 14:48:13,434 - ⏳ Monitorando... (16.0s)
+[INFO] 2025-09-28 14:48:17,575 - ⏳ Monitorando... (20.2s)
+[INFO] 2025-09-28 14:48:17,586 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:48:17,601 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:48:20,102 - ⏳ Monitorando... (20.7s)
+[INFO] 2025-09-28 14:48:22,676 - ⏳ Monitorando... (25.3s)
+[INFO] 2025-09-28 14:48:23,185 - ⏳ Monitorando... (25.8s)
+[INFO] 2025-09-28 14:48:27,793 - ⏳ Monitorando... (30.4s)
+[INFO] 2025-09-28 14:48:27,815 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:48:27,844 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:48:30,346 - ⏳ Monitorando... (30.9s)
+[INFO] 2025-09-28 14:48:32,428 - ⏳ Monitorando... (35.1s)
+[INFO] 2025-09-28 14:48:32,939 - ⏳ Monitorando... (35.6s)
+[INFO] 2025-09-28 14:48:37,554 - ⏳ Monitorando... (40.2s)
+[INFO] 2025-09-28 14:48:38,064 - ⏳ Monitorando... (40.7s)
+[INFO] 2025-09-28 14:48:38,073 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:48:38,084 - ✅ Trigger executado - clique: False
+[WARNING] 2025-09-28 14:48:42,119 - ⏰ Timeout após 45s
+[ERROR] 2025-09-28 14:48:42,176 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 14:48:42,177 - 💥 Automação falhou
+[INFO] 2025-09-28 14:48:42,179 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 14:48:52,183 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 14:48:55,234 - ✅ Navegador fechado
+[INFO] 2025-09-28 14:56:53,860 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 14:56:53,860 - ====== WebDriver manager ======
+[INFO] 2025-09-28 14:56:54,901 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:56:54,993 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 14:56:55,073 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 14:56:56,651 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 14:56:56,652 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 14:57:04,347 - ✅ Página carregada completamente
+[INFO] 2025-09-28 14:57:04,392 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 14:57:04,392 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-28 14:57:04,531 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 14:57:11,048 - ⏳ Monitorando... (5.8s)
+[INFO] 2025-09-28 14:57:14,729 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:57:14,789 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:57:17,292 - ⏳ Monitorando... (10.3s)
+[INFO] 2025-09-28 14:57:22,358 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 14:57:22,398 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-28 14:57:26,729 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:57:26,751 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:57:30,307 - ⏳ Monitorando... (25.4s)
+[INFO] 2025-09-28 14:57:30,817 - ⏳ Monitorando... (25.9s)
+[INFO] 2025-09-28 14:57:35,149 - ⏳ Monitorando... (30.2s)
+[INFO] 2025-09-28 14:57:35,694 - ⏳ Monitorando... (30.8s)
+[INFO] 2025-09-28 14:57:36,762 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:57:36,777 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 14:57:40,630 - ⏳ Monitorando... (35.5s)
+[INFO] 2025-09-28 14:57:45,257 - ⏳ Monitorando... (40.4s)
+[INFO] 2025-09-28 14:57:45,766 - ⏳ Monitorando... (40.9s)
+[INFO] 2025-09-28 14:57:46,797 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 14:57:46,807 - ✅ Trigger executado - clique: False
+[WARNING] 2025-09-28 14:57:49,838 - ⏰ Timeout após 45s
+[ERROR] 2025-09-28 14:57:49,838 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 14:57:49,838 - 💥 Automação falhou
+[INFO] 2025-09-28 14:57:49,839 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 14:57:59,840 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 14:58:02,724 - ✅ Navegador fechado
+[INFO] 2025-09-28 15:53:44,229 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 15:53:44,230 - ====== WebDriver manager ======
+[INFO] 2025-09-28 15:53:45,322 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 15:53:46,083 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 15:53:46,764 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 15:53:48,394 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 15:53:48,394 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 15:53:49,259 - ✅ Página carregada completamente
+[WARNING] 2025-09-28 15:53:49,281 - ⚠️ Erro ao extrair headers: Message: <unknown>: Failed to read the 'cookie' property from 'Document': Access is denied for this document.
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x48c333+65459]
+	GetHandleVerifier [0x0x48c374+65524]
+	(No symbol) [0x0x2ad973]
+	(No symbol) [0x0x2b4330]
+	(No symbol) [0x0x2b69cc]
+	(No symbol) [0x0x33c654]
+	(No symbol) [0x0x319dfc]
+	(No symbol) [0x0x33b606]
+	(No symbol) [0x0x319bf6]
+	(No symbol) [0x0x2eb38e]
+	(No symbol) [0x0x2ec274]
+	GetHandleVerifier [0x0x70eda3+2697763]
+	GetHandleVerifier [0x0x709ec7+2677575]
+	GetHandleVerifier [0x0x4b4194+228884]
+	GetHandleVerifier [0x0x4a49f8+165496]
+	GetHandleVerifier [0x0x4ab18d+192013]
+	GetHandleVerifier [0x0x4947d8+99416]
+	GetHandleVerifier [0x0x494972+99826]
+	GetHandleVerifier [0x0x47ebea+10346]
+	BaseThreadInitThunk [0x0x764efcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+[INFO] 2025-09-28 15:53:49,343 - 🔐 Estado de login: INDETERMINADO
+[INFO] 2025-09-28 15:53:49,343 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-28 15:53:49,365 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 15:53:55,033 - ⏳ Monitorando... (5.2s)
+[INFO] 2025-09-28 15:53:55,544 - ⏳ Monitorando... (5.7s)
+[INFO] 2025-09-28 15:53:59,642 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:53:59,650 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:54:02,152 - ⏳ Monitorando... (10.3s)
+[INFO] 2025-09-28 15:54:05,207 - ⏳ Monitorando... (15.4s)
+[INFO] 2025-09-28 15:54:05,717 - ⏳ Monitorando... (15.9s)
+[INFO] 2025-09-28 15:54:09,798 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:54:09,805 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:54:12,306 - ⏳ Monitorando... (20.4s)
+[INFO] 2025-09-28 15:54:15,123 - ⏳ Monitorando... (25.3s)
+[INFO] 2025-09-28 15:54:15,638 - ⏳ Monitorando... (25.8s)
+[INFO] 2025-09-28 15:54:20,244 - ⏳ Monitorando... (30.4s)
+[INFO] 2025-09-28 15:54:20,253 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:54:20,265 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:54:22,769 - ⏳ Monitorando... (30.9s)
+[INFO] 2025-09-28 15:54:25,334 - ⏳ Monitorando... (35.5s)
+[INFO] 2025-09-28 15:54:25,850 - ⏳ Monitorando... (36.0s)
+[INFO] 2025-09-28 15:54:30,281 - ⏳ Monitorando... (40.4s)
+[INFO] 2025-09-28 15:54:30,284 - 🔄 Tentando forçar disparo da API...
+[WARNING] 2025-09-28 15:54:30,285 - ⚠️ Erro ao forçar trigger: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x48c333+65459]
+	GetHandleVerifier [0x0x48c374+65524]
+	(No symbol) [0x0x2ad973]
+	(No symbol) [0x0x28c19d]
+	(No symbol) [0x0x32059e]
+	(No symbol) [0x0x33aef9]
+	(No symbol) [0x0x319bf6]
+	(No symbol) [0x0x2eb38e]
+	(No symbol) [0x0x2ec274]
+	GetHandleVerifier [0x0x70eda3+2697763]
+	GetHandleVerifier [0x0x709ec7+2677575]
+	GetHandleVerifier [0x0x4b4194+228884]
+	GetHandleVerifier [0x0x4a49f8+165496]
+	GetHandleVerifier [0x0x4ab18d+192013]
+	GetHandleVerifier [0x0x4947d8+99416]
+	GetHandleVerifier [0x0x494972+99826]
+	GetHandleVerifier [0x0x47ebea+10346]
+	BaseThreadInitThunk [0x0x764efcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+[INFO] 2025-09-28 15:54:30,789 - ⏳ Monitorando... (40.9s)
+[INFO] 2025-09-28 15:54:33,074 - ⏹️ Execução interrompida pelo usuário
+[INFO] 2025-09-28 15:54:33,075 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 15:54:41,911 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 15:54:41,912 - ====== WebDriver manager ======
+[INFO] 2025-09-28 15:54:42,893 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 15:54:43,011 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 15:54:43,098 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 15:54:44,721 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 15:54:44,725 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 15:54:52,011 - ✅ Página carregada completamente
+[INFO] 2025-09-28 15:54:52,057 - ✅ Headers de sessão extraídos
+[INFO] 2025-09-28 15:54:52,075 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 15:54:52,076 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-28 15:54:52,109 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 15:54:53,406 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 15:54:53,408 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[WARNING] 2025-09-28 15:54:53,540 - 🔒 Erro 403 detectado. Tentativa #1
+[INFO] 2025-09-28 15:54:53,544 - 🆔 X-latam-Track-Id atualizado: bf73924a-f8d4-4e9a-8997-e462e267a787
+[INFO] 2025-09-28 15:54:53,545 - 🆔 X-latam-App-Session-Id atualizado: 96ae8f79-290f-463b-a1b5-13d970ae601f
+[INFO] 2025-09-28 15:54:53,545 - 🔄 Executando estratégia: refresh_page_session
+[INFO] 2025-09-28 15:54:53,546 - 🔄 Atualizando sessão da página...
+[INFO] 2025-09-28 15:54:58,433 - ✅ Página carregada completamente
+[INFO] 2025-09-28 15:54:58,446 - ✅ Headers de sessão extraídos
+[INFO] 2025-09-28 15:54:58,447 - ✅ Estratégia executada com sucesso
+[INFO] 2025-09-28 15:55:02,182 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:55:02,192 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:55:04,693 - ⏳ Monitorando... (10.1s)
+[INFO] 2025-09-28 15:55:07,753 - ⏳ Monitorando... (15.2s)
+[INFO] 2025-09-28 15:55:08,262 - ⏳ Monitorando... (15.7s)
+[INFO] 2025-09-28 15:55:12,345 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:55:12,353 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:55:14,858 - ⏳ Monitorando... (20.3s)
+[INFO] 2025-09-28 15:55:17,923 - ⏳ Monitorando... (25.3s)
+[INFO] 2025-09-28 15:55:18,433 - ⏳ Monitorando... (25.8s)
+[INFO] 2025-09-28 15:55:22,521 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:55:22,528 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:55:25,030 - ⏳ Monitorando... (30.4s)
+[INFO] 2025-09-28 15:55:28,089 - ⏳ Monitorando... (35.5s)
+[INFO] 2025-09-28 15:55:32,674 - ⏳ Monitorando... (40.1s)
+[INFO] 2025-09-28 15:55:32,683 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:55:32,692 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:55:35,193 - ⏳ Monitorando... (40.6s)
+[WARNING] 2025-09-28 15:55:37,235 - ⏰ Timeout após 45s
+[ERROR] 2025-09-28 15:55:37,235 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 15:55:37,235 - 💥 Automação falhou
+[INFO] 2025-09-28 15:55:37,236 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 15:55:47,238 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 15:55:49,702 - ✅ Navegador fechado
+[INFO] 2025-09-28 15:57:06,225 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 15:57:06,225 - ====== WebDriver manager ======
+[INFO] 2025-09-28 15:57:07,256 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 15:57:07,351 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 15:57:07,436 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 15:57:09,024 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 15:57:09,025 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 15:57:15,087 - ✅ Página carregada completamente
+[INFO] 2025-09-28 15:57:15,097 - ✅ Headers de sessão extraídos
+[INFO] 2025-09-28 15:57:15,119 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 15:57:15,120 - 🎯 Iniciando monitoramento abrangente da API (timeout: 45s)
+[INFO] 2025-09-28 15:57:15,140 - ✅ Interceptação JavaScript configurada
+[WARNING] 2025-09-28 15:57:17,112 - 🔒 Erro 403 detectado. Tentativa #1
+[INFO] 2025-09-28 15:57:17,117 - 🆔 X-latam-Track-Id atualizado: a60324c1-e19f-4739-b64c-adab7538d89b
+[INFO] 2025-09-28 15:57:17,117 - 🆔 X-latam-App-Session-Id atualizado: dc6ef92d-3496-4bb6-ae61-d33fd1f0138b
+[INFO] 2025-09-28 15:57:17,118 - 🔄 Executando estratégia: refresh_page_session
+[INFO] 2025-09-28 15:57:17,119 - 🔄 Atualizando sessão da página...
+[INFO] 2025-09-28 15:57:25,329 - ✅ Página carregada completamente
+[INFO] 2025-09-28 15:57:25,341 - ✅ Headers de sessão extraídos
+[INFO] 2025-09-28 15:57:25,342 - ✅ Estratégia executada com sucesso
+[INFO] 2025-09-28 15:57:25,580 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 15:57:25,580 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[INFO] 2025-09-28 15:57:25,653 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 15:57:25,654 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[WARNING] 2025-09-28 15:57:25,659 - 🔒 Erro 403 detectado. Tentativa #2
+[INFO] 2025-09-28 15:57:25,660 - 🆔 X-latam-Track-Id atualizado: 78ea1cec-dc2e-43cd-8c1c-0707d0ff46a5
+[INFO] 2025-09-28 15:57:25,660 - 🆔 X-latam-App-Session-Id atualizado: cf21f461-b634-4bed-9c71-11bd28378613
+[INFO] 2025-09-28 15:57:25,660 - 🔄 Executando estratégia: refresh_page_session
+[INFO] 2025-09-28 15:57:25,661 - 🔄 Atualizando sessão da página...
+[INFO] 2025-09-28 15:57:30,830 - ✅ Página carregada completamente
+[INFO] 2025-09-28 15:57:30,837 - ✅ Headers de sessão extraídos
+[INFO] 2025-09-28 15:57:30,838 - ✅ Estratégia executada com sucesso
+[INFO] 2025-09-28 15:57:31,422 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:57:31,432 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:57:35,976 - ⏳ Monitorando... (20.3s)
+[INFO] 2025-09-28 15:57:36,486 - ⏳ Monitorando... (20.9s)
+[INFO] 2025-09-28 15:57:41,186 - ⏳ Monitorando... (25.6s)
+[INFO] 2025-09-28 15:57:41,704 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:57:41,711 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 15:57:45,762 - ⏳ Monitorando... (30.1s)
+[INFO] 2025-09-28 15:57:46,272 - ⏳ Monitorando... (30.6s)
+[INFO] 2025-09-28 15:57:50,861 - ⏳ Monitorando... (35.2s)
+[INFO] 2025-09-28 15:57:59,104 - ⏳ Monitorando... (35.7s)
+[INFO] 2025-09-28 15:57:59,137 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 15:57:59,492 - ✅ Trigger executado - clique: True
+[WARNING] 2025-09-28 15:58:02,001 - ⏰ Timeout após 45s
+[ERROR] 2025-09-28 15:58:02,001 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 15:58:02,002 - 💥 Automação falhou
+[INFO] 2025-09-28 15:58:02,002 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 15:58:12,003 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 15:58:14,425 - ✅ Navegador fechado
+[INFO] 2025-09-28 16:14:41,209 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 16:14:41,209 - ====== WebDriver manager ======
+[INFO] 2025-09-28 16:14:42,261 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:14:42,347 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:14:42,450 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 16:14:44,096 - ✅ Navegador iniciado com configurações avançadas
+[INFO] 2025-09-28 16:14:44,105 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[ERROR] 2025-09-28 16:14:51,243 - 💥 Erro no fluxo principal: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x48c333+65459]
+	GetHandleVerifier [0x0x48c374+65524]
+	(No symbol) [0x0x2ad973]
+	(No symbol) [0x0x28c19d]
+	(No symbol) [0x0x32059e]
+	(No symbol) [0x0x33aef9]
+	(No symbol) [0x0x319bf6]
+	(No symbol) [0x0x2eb38e]
+	(No symbol) [0x0x2ec274]
+	GetHandleVerifier [0x0x70eda3+2697763]
+	GetHandleVerifier [0x0x709ec7+2677575]
+	GetHandleVerifier [0x0x4b4194+228884]
+	GetHandleVerifier [0x0x4a49f8+165496]
+	GetHandleVerifier [0x0x4ab18d+192013]
+	GetHandleVerifier [0x0x4947d8+99416]
+	GetHandleVerifier [0x0x494972+99826]
+	GetHandleVerifier [0x0x47ebea+10346]
+	BaseThreadInitThunk [0x0x764efcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+[ERROR] 2025-09-28 16:14:51,303 - 💥 Automação falhou
+[INFO] 2025-09-28 16:14:51,329 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 16:15:40,980 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 16:15:40,981 - ====== WebDriver manager ======
+[INFO] 2025-09-28 16:15:41,963 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:15:42,052 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:15:42,130 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 16:15:43,687 - ✅ Navegador iniciado com configurações avançadas
+[INFO] 2025-09-28 16:15:43,688 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 16:15:49,669 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:15:49,801 - ✅ Headers de requisição extraídos
+[INFO] 2025-09-28 16:15:49,830 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 16:15:49,831 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 16:15:49,848 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 16:16:01,085 - ⏳ Monitorando... (10.2s)
+[INFO] 2025-09-28 16:16:05,120 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 16:16:05,227 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 16:16:11,245 - ⏳ Monitorando... (20.4s)
+[INFO] 2025-09-28 16:16:20,323 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 16:16:20,431 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 16:16:24,433 - ⏳ Monitorando... (30.5s)
+[INFO] 2025-09-28 16:16:31,489 - ⏳ Monitorando... (40.7s)
+[INFO] 2025-09-28 16:16:35,529 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 16:16:35,642 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 16:16:41,662 - ⏳ Monitorando... (50.8s)
+[INFO] 2025-09-28 16:16:50,730 - 🔄 Última tentativa com chamada direta...
+[INFO] 2025-09-28 16:16:50,730 - 🚀 Tentando chamada direta à API...
+[INFO] 2025-09-28 16:16:50,730 - 🔗 Fazendo requisição para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption
+[INFO] 2025-09-28 16:16:51,258 - 📥 Resposta recebida: Status 400
+[WARNING] 2025-09-28 16:16:51,258 - ⚠️ Status inesperado: 400
+[WARNING] 2025-09-28 16:16:51,259 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 16:16:51,259 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 16:16:51,259 - 💥 Automação falhou
+[INFO] 2025-09-28 16:16:51,259 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 16:17:01,261 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 16:17:03,699 - ✅ Navegador fechado
+[INFO] 2025-09-28 16:26:21,137 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 16:26:21,137 - ====== WebDriver manager ======
+[INFO] 2025-09-28 16:26:22,195 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:26:22,294 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:26:22,375 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 16:26:24,030 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 16:26:24,031 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 16:26:30,158 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:26:30,218 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 16:26:30,220 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 16:26:30,238 - ✅ Interceptação JavaScript configurada
+[ERROR] 2025-09-28 16:26:32,256 - ❌ Erro 403 detectado via JavaScript interception
+[WARNING] 2025-09-28 16:26:32,259 - 🔒 Erro 403 detectado. Tentativa de recuperação #1
+[INFO] 2025-09-28 16:26:32,263 - 🧹 Limpando dados de sessão e cookies...
+[INFO] 2025-09-28 16:26:33,453 - ✅ Cookies do navegador removidos
+[INFO] 2025-09-28 16:26:33,460 - ✅ LocalStorage e SessionStorage limpos
+[INFO] 2025-09-28 16:26:33,469 - ✅ Dados de aplicação limpos
+[INFO] 2025-09-28 16:26:35,470 - 🔄 Recarregando página...
+[INFO] 2025-09-28 16:26:39,860 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:26:39,866 - 🔐 Estado de login: INDETERMINADO
+[INFO] 2025-09-28 16:26:39,866 - 🔐 Sessão inválida - executando fluxo de login...
+[INFO] 2025-09-28 16:26:39,867 - 🔑 Iniciando fluxo de login da LATAM...
+[INFO] 2025-09-28 16:26:39,876 - 🌐 Navegando para página de login...
+[INFO] 2025-09-28 16:26:45,266 - ✅ Página carregada completamente
+[ERROR] 2025-09-28 16:26:55,830 - ❌ Erro durante o fluxo de login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x48c333+65459]
+	GetHandleVerifier [0x0x48c374+65524]
+	(No symbol) [0x0x2ad973]
+	(No symbol) [0x0x2f76e7]
+	(No symbol) [0x0x2f7a8b]
+	(No symbol) [0x0x33dea2]
+	(No symbol) [0x0x319e44]
+	(No symbol) [0x0x33b606]
+	(No symbol) [0x0x319bf6]
+	(No symbol) [0x0x2eb38e]
+	(No symbol) [0x0x2ec274]
+	GetHandleVerifier [0x0x70eda3+2697763]
+	GetHandleVerifier [0x0x709ec7+2677575]
+	GetHandleVerifier [0x0x4b4194+228884]
+	GetHandleVerifier [0x0x4a49f8+165496]
+	GetHandleVerifier [0x0x4ab18d+192013]
+	GetHandleVerifier [0x0x4947d8+99416]
+	GetHandleVerifier [0x0x494972+99826]
+	GetHandleVerifier [0x0x47ebea+10346]
+	BaseThreadInitThunk [0x0x764efcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+[ERROR] 2025-09-28 16:26:55,832 - ❌ Falha no login após erro 403
+[WARNING] 2025-09-28 16:27:30,223 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 16:27:30,224 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 16:27:30,224 - 💥 Automação falhou
+[INFO] 2025-09-28 16:27:30,224 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 16:27:40,226 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 16:27:42,980 - ✅ Navegador fechado
+[INFO] 2025-09-28 16:36:57,087 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 16:36:57,088 - ====== WebDriver manager ======
+[INFO] 2025-09-28 16:36:58,125 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:36:58,231 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:36:58,336 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 16:36:59,899 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 16:36:59,901 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 16:37:07,378 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:37:17,901 - ℹ️ Nenhum popup de cookies detectado
+[INFO] 2025-09-28 16:37:17,908 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 16:37:17,909 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 16:37:17,921 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 16:37:18,155 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 16:37:18,157 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[WARNING] 2025-09-28 16:37:18,157 - 🔒 Erro 403 detectado. Tentativa de recuperação #1
+[INFO] 2025-09-28 16:37:18,157 - 🧹 Limpando dados de sessão e cookies...
+[INFO] 2025-09-28 16:37:19,005 - ✅ Cookies do navegador removidos
+[INFO] 2025-09-28 16:37:19,014 - ✅ LocalStorage e SessionStorage limpos
+[INFO] 2025-09-28 16:37:19,020 - ✅ Dados de aplicação limpos
+[INFO] 2025-09-28 16:37:21,021 - 🔄 Recarregando página...
+[INFO] 2025-09-28 16:37:26,560 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:37:26,662 - 🍪 Popup de cookies detectado - clicando em 'Aceite todos os cookies'
+[INFO] 2025-09-28 16:37:28,973 - ✅ Cookies aceitos
+[INFO] 2025-09-28 16:37:29,032 - 🔑 Clicando no botão 'Fazer login'
+[ERROR] 2025-09-28 16:37:45,514 - ❌ Timeout ao clicar no botão de login
+[ERROR] 2025-09-28 16:37:45,514 - ❌ Falha ao clicar no botão de login
+[WARNING] 2025-09-28 16:38:17,910 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 16:38:17,910 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 16:38:17,910 - 💥 Automação falhou
+[INFO] 2025-09-28 16:38:17,911 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 16:38:33,115 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 16:38:33,116 - ====== WebDriver manager ======
+[INFO] 2025-09-28 16:38:34,121 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:38:34,212 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:38:34,286 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 16:38:35,866 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 16:38:35,867 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 16:38:42,855 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:38:53,362 - ℹ️ Nenhum popup de cookies detectado
+[INFO] 2025-09-28 16:38:53,369 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 16:38:53,370 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 16:38:53,379 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 16:38:53,562 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 16:38:53,562 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[WARNING] 2025-09-28 16:38:53,563 - 🔒 Erro 403 detectado. Tentativa de recuperação #1
+[INFO] 2025-09-28 16:38:53,563 - 🧹 Limpando dados de sessão e cookies...
+[INFO] 2025-09-28 16:38:54,241 - ✅ Cookies do navegador removidos
+[INFO] 2025-09-28 16:38:54,247 - ✅ LocalStorage e SessionStorage limpos
+[INFO] 2025-09-28 16:38:54,254 - ✅ Dados de aplicação limpos
+[INFO] 2025-09-28 16:38:56,256 - 🔄 Recarregando página...
+[INFO] 2025-09-28 16:39:01,768 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:39:01,806 - 🍪 Popup de cookies detectado - clicando em 'Aceite todos os cookies'
+[INFO] 2025-09-28 16:39:04,059 - ✅ Cookies aceitos
+[INFO] 2025-09-28 16:39:04,129 - 🔑 Clicando no botão 'Fazer login'
+[ERROR] 2025-09-28 16:39:20,726 - ❌ Timeout ao clicar no botão de login
+[ERROR] 2025-09-28 16:39:20,726 - ❌ Falha ao clicar no botão de login
+[WARNING] 2025-09-28 16:39:53,373 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 16:39:53,374 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 16:39:53,374 - 💥 Automação falhou
+[INFO] 2025-09-28 16:39:53,374 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 16:40:03,375 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 16:40:05,792 - ✅ Navegador fechado
+[INFO] 2025-09-28 16:49:05,971 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 16:49:05,971 - ====== WebDriver manager ======
+[INFO] 2025-09-28 16:49:07,145 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:49:07,253 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 16:49:07,328 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 16:49:09,041 - ✅ Navegador iniciado com DevTools
+[INFO] 2025-09-28 16:49:09,042 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 16:49:15,233 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:49:25,796 - ℹ️ Nenhum popup de cookies detectado
+[INFO] 2025-09-28 16:49:25,803 - 🔐 Estado de login: LOGADO
+[INFO] 2025-09-28 16:49:25,804 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 16:49:25,814 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 16:49:25,980 - 📥 Response detectado: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED - Status: 403
+[ERROR] 2025-09-28 16:49:25,980 - ❌ ACESSO PROIBIDO (403) para: https://www.latamairlines.com/bff/air-offers/v2/offers/search/redemption?destination=CGH&inFrom=null&infant=0&adult=1&inFlightDate=null&cabinType=Economy&outFlightDate=null&outFrom=2025-10-01&outOfferId=null&origin=BSB&redemption=true&child=0&inOfferId=null&sort=RECOMMENDED
+[WARNING] 2025-09-28 16:49:25,980 - 🔒 Erro 403 detectado. Tentativa de recuperação #1
+[INFO] 2025-09-28 16:49:25,981 - 🧹 Limpando dados de sessão e cookies...
+[INFO] 2025-09-28 16:49:26,648 - ✅ Cookies do navegador removidos
+[INFO] 2025-09-28 16:49:26,655 - ✅ LocalStorage e SessionStorage limpos
+[INFO] 2025-09-28 16:49:26,663 - ✅ Dados de aplicação limpos
+[INFO] 2025-09-28 16:49:28,664 - 🏠 Navegando para página inicial...
+[INFO] 2025-09-28 16:49:37,428 - ✅ Página carregada completamente
+[INFO] 2025-09-28 16:49:39,466 - 🍪 Popup de cookies detectado - clicando em 'Aceite todos os cookies'
+[INFO] 2025-09-28 16:49:41,971 - ✅ Cookies aceitos
+[INFO] 2025-09-28 16:49:42,033 - 🔑 Clicando no botão 'Fazer login'
+[ERROR] 2025-09-28 16:50:03,837 - ❌ Timeout ao clicar no botão de login
+[ERROR] 2025-09-28 16:50:03,837 - ❌ Falha ao clicar no botão de login
+[WARNING] 2025-09-28 16:50:25,804 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 16:50:25,805 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 16:50:25,805 - 💥 Automação falhou
+[INFO] 2025-09-28 16:50:25,806 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 16:50:35,806 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 16:50:38,426 - ✅ Navegador fechado
+[INFO] 2025-09-28 17:10:20,044 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 17:10:20,059 - ====== WebDriver manager ======
+[INFO] 2025-09-28 17:10:21,814 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 17:10:21,949 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 17:10:22,035 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 17:10:24,731 - ✅ Navegador iniciado com configurações avançadas de privacidade
+[INFO] 2025-09-28 17:10:24,732 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[ERROR] 2025-09-28 17:10:29,053 - 💥 Erro no fluxo principal: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0xd1c333+65459]
+	GetHandleVerifier [0x0xd1c374+65524]
+	(No symbol) [0x0xb3d973]
+	(No symbol) [0x0xb1c19d]
+	(No symbol) [0x0xbb059e]
+	(No symbol) [0x0xbcaef9]
+	(No symbol) [0x0xba9bf6]
+	(No symbol) [0x0xb7b38e]
+	(No symbol) [0x0xb7c274]
+	GetHandleVerifier [0x0xf9eda3+2697763]
+	GetHandleVerifier [0x0xf99ec7+2677575]
+	GetHandleVerifier [0x0xd44194+228884]
+	GetHandleVerifier [0x0xd349f8+165496]
+	GetHandleVerifier [0x0xd3b18d+192013]
+	GetHandleVerifier [0x0xd247d8+99416]
+	GetHandleVerifier [0x0xd24972+99826]
+	GetHandleVerifier [0x0xd0ebea+10346]
+	BaseThreadInitThunk [0x0x76defcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e2827e+238]
+
+[ERROR] 2025-09-28 17:10:29,231 - 💥 Automação falhou
+[INFO] 2025-09-28 17:10:29,232 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 17:10:39,234 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 17:10:41,306 - ✅ Navegador fechado
+[INFO] 2025-09-28 17:11:16,454 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 17:11:16,458 - ====== WebDriver manager ======
+[INFO] 2025-09-28 17:11:17,770 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 17:11:17,862 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 17:11:17,948 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 17:11:19,786 - ✅ Navegador iniciado com configurações avançadas de privacidade
+[INFO] 2025-09-28 17:11:19,786 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 17:11:26,608 - ✅ Página carregada completamente
+[INFO] 2025-09-28 17:11:37,148 - ℹ️ Nenhum popup de cookies detectado
+[INFO] 2025-09-28 17:11:37,157 - 🔐 Estado de login: INDETERMINADO
+[INFO] 2025-09-28 17:11:37,158 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 17:11:37,169 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 17:11:45,935 - ⏳ Monitorando... (5.1s)
+[INFO] 2025-09-28 17:11:47,484 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 17:11:47,492 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 17:11:49,993 - ⏳ Monitorando... (10.3s)
+[INFO] 2025-09-28 17:11:55,737 - ⏹️ Execução interrompida pelo usuário
+[INFO] 2025-09-28 17:11:55,737 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 17:12:01,154 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 17:12:01,155 - ====== WebDriver manager ======
+[INFO] 2025-09-28 17:12:02,158 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 17:12:02,258 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 17:12:02,329 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 17:12:03,945 - ✅ Navegador iniciado com configurações avançadas de privacidade
+[INFO] 2025-09-28 17:12:03,945 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 17:12:08,345 - ✅ Página carregada completamente
+[WARNING] 2025-09-28 17:12:15,452 - ⚠️ Erro ao lidar com popup de cookies: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[WARNING] 2025-09-28 17:12:19,521 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C56399B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389/execute/sync
+[WARNING] 2025-09-28 17:12:23,620 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639A240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389/execute/sync
+[WARNING] 2025-09-28 17:12:27,682 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639A420>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389/execute/sync
+[WARNING] 2025-09-28 17:12:31,741 - ⚠️ Erro na verificação de login: HTTPConnectionPool(host='localhost', port=50429): Max retries exceeded with url: /session/385fbe698e097d0b610d854d8b7ab389/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639A660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[INFO] 2025-09-28 17:12:31,741 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[WARNING] 2025-09-28 17:12:35,803 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639A930>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389/execute/sync
+[WARNING] 2025-09-28 17:12:39,896 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639AB40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389/execute/sync
+[WARNING] 2025-09-28 17:12:43,987 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639AD80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389/execute/sync
+[ERROR] 2025-09-28 17:12:48,061 - ❌ Erro na interceptação JavaScript: HTTPConnectionPool(host='localhost', port=50429): Max retries exceeded with url: /session/385fbe698e097d0b610d854d8b7ab389/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639AFC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[ERROR] 2025-09-28 17:12:48,062 - ❌ Falha na configuração da interceptação
+[ERROR] 2025-09-28 17:12:48,062 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 17:12:48,062 - 💥 Automação falhou
+[INFO] 2025-09-28 17:12:48,063 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 17:12:58,064 - 🔚 Fechando navegador...
+[WARNING] 2025-09-28 17:13:02,146 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639B230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389
+[WARNING] 2025-09-28 17:13:06,210 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639B3E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389
+[WARNING] 2025-09-28 17:13:10,285 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C5639B590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/385fbe698e097d0b610d854d8b7ab389
+[INFO] 2025-09-28 17:13:18,478 - ✅ Navegador fechado
+[INFO] 2025-09-28 19:31:39,524 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 19:31:39,545 - ====== WebDriver manager ======
+[INFO] 2025-09-28 19:31:41,540 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 19:31:41,720 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 19:31:41,817 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 19:31:45,028 - ✅ Navegador iniciado com configurações avançadas de privacidade
+[INFO] 2025-09-28 19:31:45,029 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 19:31:51,060 - ✅ Página carregada completamente
+[INFO] 2025-09-28 19:32:01,605 - ℹ️ Nenhum popup de cookies detectado
+[INFO] 2025-09-28 19:32:01,614 - 🔐 Estado de login: INDETERMINADO
+[INFO] 2025-09-28 19:32:01,614 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 19:32:01,626 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 19:32:07,332 - ⏳ Monitorando... (5.2s)
+[INFO] 2025-09-28 19:32:07,842 - ⏳ Monitorando... (5.7s)
+[INFO] 2025-09-28 19:32:11,930 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 19:32:11,946 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 19:32:14,448 - ⏳ Monitorando... (10.3s)
+[INFO] 2025-09-28 19:32:17,550 - ⏳ Monitorando... (15.4s)
+[INFO] 2025-09-28 19:32:18,061 - ⏳ Monitorando... (15.9s)
+[INFO] 2025-09-28 19:32:22,205 - ⏳ Monitorando... (20.1s)
+[INFO] 2025-09-28 19:32:22,215 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 19:32:22,224 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 19:32:24,725 - ⏳ Monitorando... (20.6s)
+[INFO] 2025-09-28 19:32:27,276 - ⏳ Monitorando... (25.1s)
+[INFO] 2025-09-28 19:32:27,787 - ⏳ Monitorando... (25.7s)
+[INFO] 2025-09-28 19:32:32,370 - ⏳ Monitorando... (30.2s)
+[INFO] 2025-09-28 19:32:32,378 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 19:32:32,387 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 19:32:34,891 - ⏳ Monitorando... (30.8s)
+[INFO] 2025-09-28 19:32:37,466 - ⏳ Monitorando... (35.3s)
+[INFO] 2025-09-28 19:32:37,976 - ⏳ Monitorando... (35.9s)
+[INFO] 2025-09-28 19:32:42,563 - ⏳ Monitorando... (40.4s)
+[INFO] 2025-09-28 19:32:42,572 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 19:32:42,581 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 19:32:45,084 - ⏳ Monitorando... (40.9s)
+[INFO] 2025-09-28 19:32:47,636 - ⏳ Monitorando... (45.5s)
+[INFO] 2025-09-28 19:32:52,221 - ⏳ Monitorando... (50.1s)
+[INFO] 2025-09-28 19:32:52,731 - ⏳ Monitorando... (50.6s)
+[INFO] 2025-09-28 19:32:52,740 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 19:32:52,749 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 19:32:57,292 - ⏳ Monitorando... (55.2s)
+[INFO] 2025-09-28 19:32:57,802 - ⏳ Monitorando... (55.7s)
+[WARNING] 2025-09-28 19:33:01,875 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 19:33:01,875 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 19:33:01,875 - 💥 Automação falhou
+[INFO] 2025-09-28 19:33:01,875 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 19:33:11,876 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 19:33:14,330 - ✅ Navegador fechado
+[INFO] 2025-09-28 23:16:50,699 - 🎬 Iniciando automação Latam...
+[INFO] 2025-09-28 23:16:50,699 - ====== WebDriver manager ======
+[INFO] 2025-09-28 23:16:51,765 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 23:16:51,876 - Get LATEST chromedriver version for google-chrome
+[INFO] 2025-09-28 23:16:51,960 - Driver [C:\Users\dius_\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 2025-09-28 23:16:53,559 - ✅ Navegador iniciado com configurações avançadas de privacidade
+[INFO] 2025-09-28 23:16:53,564 - 🌐 Navegando para: https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&outbound=2025-10-01T15%3A00%3A00.000Z&destination=CGH&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED
+[INFO] 2025-09-28 23:16:58,670 - ✅ Página carregada completamente
+[INFO] 2025-09-28 23:17:09,297 - ℹ️ Nenhum popup de cookies detectado
+[INFO] 2025-09-28 23:17:09,304 - 🔐 Estado de login: INDETERMINADO
+[INFO] 2025-09-28 23:17:09,304 - 🎯 Iniciando monitoramento abrangente da API (timeout: 60s)
+[INFO] 2025-09-28 23:17:09,313 - ✅ Interceptação JavaScript configurada
+[INFO] 2025-09-28 23:17:15,017 - ⏳ Monitorando... (5.2s)
+[INFO] 2025-09-28 23:17:15,527 - ⏳ Monitorando... (5.7s)
+[INFO] 2025-09-28 23:17:19,616 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 23:17:19,626 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 23:17:22,128 - ⏳ Monitorando... (10.3s)
+[INFO] 2025-09-28 23:17:25,205 - ⏳ Monitorando... (15.4s)
+[INFO] 2025-09-28 23:17:25,715 - ⏳ Monitorando... (15.9s)
+[INFO] 2025-09-28 23:17:29,801 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 23:17:29,808 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 23:17:32,310 - ⏳ Monitorando... (20.5s)
+[INFO] 2025-09-28 23:17:34,860 - ⏳ Monitorando... (25.0s)
+[INFO] 2025-09-28 23:17:35,369 - ⏳ Monitorando... (25.6s)
+[INFO] 2025-09-28 23:17:39,957 - ⏳ Monitorando... (30.1s)
+[INFO] 2025-09-28 23:17:39,966 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 23:17:39,976 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 23:17:42,478 - ⏳ Monitorando... (30.7s)
+[INFO] 2025-09-28 23:17:45,030 - ⏳ Monitorando... (35.2s)
+[INFO] 2025-09-28 23:17:45,539 - ⏳ Monitorando... (35.7s)
+[INFO] 2025-09-28 23:17:50,124 - ⏳ Monitorando... (40.3s)
+[INFO] 2025-09-28 23:17:50,133 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 23:17:50,145 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 23:17:52,647 - ⏳ Monitorando... (40.8s)
+[INFO] 2025-09-28 23:17:55,202 - ⏳ Monitorando... (45.4s)
+[INFO] 2025-09-28 23:17:55,712 - ⏳ Monitorando... (45.9s)
+[INFO] 2025-09-28 23:18:00,298 - ⏳ Monitorando... (50.5s)
+[INFO] 2025-09-28 23:18:00,307 - 🔄 Tentando forçar disparo da API...
+[INFO] 2025-09-28 23:18:00,316 - ✅ Trigger executado - clique: False
+[INFO] 2025-09-28 23:18:02,821 - ⏳ Monitorando... (51.0s)
+[INFO] 2025-09-28 23:18:04,861 - ⏳ Monitorando... (55.0s)
+[INFO] 2025-09-28 23:18:05,370 - ⏳ Monitorando... (55.6s)
+[WARNING] 2025-09-28 23:18:09,449 - ⏰ Timeout após 60s
+[ERROR] 2025-09-28 23:18:09,449 - ❌ Não foi possível obter os dados da API
+[ERROR] 2025-09-28 23:18:09,449 - 💥 Automação falhou
+[INFO] 2025-09-28 23:18:09,450 - ⏳ Mantendo browser aberto para inspeção...
+[INFO] 2025-09-28 23:18:19,451 - 🔚 Fechando navegador...
+[INFO] 2025-09-28 23:18:21,874 - ✅ Navegador fechado

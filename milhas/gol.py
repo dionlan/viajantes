@@ -188,7 +188,7 @@ if __name__ == "__main__":
     api = SmilesUltimateBypass(use_proxy=False)
     
     # Execução
-    result = api.search_flights("BSB", "CGH", "2025-08-01")
+    result = api.search_flights("BSB", "CGH", "2025-10-01")
     
     if result:
         print("\nResultado obtido com sucesso!")

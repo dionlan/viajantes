@@ -1,0 +1,256 @@
+<div class="max-w-6xl mx-auto p-8 bg-white rounded-3xl shadow-2xl backdrop-blur-sm bg-opacity-90">
+    <!-- Header -->
+    <div class="mb-8 text-center">
+        <h1 class="text-3xl font-bold text-gray-800">Encontre seu voo perfeito</h1>
+        <p class="text-gray-600 mt-2">Pesquise entre milhares de opções com os melhores preços</p>
+    </div>
+
+    <!-- Flight Type & Class Toggles -->
+    <div class="flex flex-col md:flex-row gap-6 mb-8">
+        <!-- Flight Type Toggle -->
+        <div class="flex-1">
+            <label class="block text-sm font-medium text-gray-700 mb-2">Tipo de voo</label>
+            <div class="flex bg-gray-100 p-1 rounded-xl shadow-inner">
+                <button [ngClass]="{
+            'bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg': flightType() === 'round-trip',
+            'text-gray-600 hover:bg-gray-50': flightType() !== 'round-trip'
+          }" (click)="flightType.set('round-trip')"
+                    class="flex-1 py-3 px-6 rounded-xl transition-all duration-300 flex items-center justify-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                    </svg>
+                    <span>Ida e Volta</span>
+                </button>
+
+                <button [ngClass]="{
+            'bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg': flightType() === 'one-way',
+            'text-gray-600 hover:bg-gray-50': flightType() !== 'one-way'
+          }" (click)="flightType.set('one-way')"
+                    class="flex-1 py-3 px-6 rounded-xl transition-all duration-300 flex items-center justify-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M13 5l7 7-7 7M5 5l7 7-7 7" />
+                    </svg>
+                    <span>Somente Ida</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Cabin Class Toggle -->
+        <div class="flex-1">
+            <label class="block text-sm font-medium text-gray-700 mb-2">Classe</label>
+            <div class="flex bg-gray-100 p-1 rounded-xl shadow-inner">
+                <button [ngClass]="{
+            'bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg': cabinClass() === 'economy',
+            'text-gray-600 hover:bg-gray-50': cabinClass() !== 'economy'
+          }" (click)="cabinClass.set('economy')" class="flex-1 py-3 px-6 rounded-xl transition-all duration-300">
+                    Econômica
+                </button>
+
+                <button [ngClass]="{
+            'bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg': cabinClass() === 'business',
+            'text-gray-600 hover:bg-gray-50': cabinClass() !== 'business'
+          }" (click)="cabinClass.set('business')" class="flex-1 py-3 px-6 rounded-xl transition-all duration-300">
+                    Executiva
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Search Form -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+        <!-- Origin Input -->
+        <div class="relative">
+            <label class="block text-sm font-medium text-gray-700 mb-2">Origem</label>
+            <div class="relative">
+                <input type="text" [(ngModel)]="origin" (input)="updateOrigin($event)" placeholder="Cidade ou aeroporto"
+                    class="w-full p-4 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-200 transition-all duration-300 pl-12">
+                <div class="absolute left-4 top-1/2 transform -translate-y-1/2 text-blue-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                    </svg>
+                </div>
+                <div *ngIf="filteredOrigins().length > 0 && origin()"
+                    class="absolute z-10 mt-2 w-full bg-white rounded-xl shadow-xl border border-gray-200 max-h-60 overflow-auto">
+                    <ul>
+                        <li *ngFor="let airport of filteredOrigins()" (click)="selectAirport('origin', airport)"
+                            class="px-4 py-3 hover:bg-blue-50 cursor-pointer transition-colors border-b border-gray-100 last:border-0">
+                            <div class="font-medium text-gray-800">{{airport.city}}, {{airport.name}}</div>
+                            <div class="text-sm text-gray-500">{{airport.code}}</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Destination Input -->
+        <div class="relative">
+            <label class="block text-sm font-medium text-gray-700 mb-2">Destino</label>
+            <div class="relative">
+                <input type="text" [(ngModel)]="destination" (input)="updateDestination($event)"
+                    placeholder="Cidade ou aeroporto"
+                    class="w-full p-4 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-200 transition-all duration-300 pl-12">
+                <div class="absolute left-4 top-1/2 transform -translate-y-1/2 text-blue-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                </div>
+                <div *ngIf="filteredDestinations().length > 0 && destination()"
+                    class="absolute z-10 mt-2 w-full bg-white rounded-xl shadow-xl border border-gray-200 max-h-60 overflow-auto">
+                    <ul>
+                        <li *ngFor="let airport of filteredDestinations()"
+                            (click)="selectAirport('destination', airport)"
+                            class="px-4 py-3 hover:bg-blue-50 cursor-pointer transition-colors border-b border-gray-100 last:border-0">
+                            <div class="font-medium text-gray-800">{{airport.city}}, {{airport.name}}</div>
+                            <div class="text-sm text-gray-500">{{airport.code}}</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Date Inputs -->
+        <div class="grid grid-cols-1 gap-4">
+            <div>
+                <label class="block text-sm font-medium text-gray-700 mb-2">Data de Ida</label>
+                <app-date-picker [(value)]="departureDate" [minDate]="today" [maxDate]="maxDate"
+                    placeholder="Selecione a data de ida"></app-date-picker>
+            </div>
+            <div *ngIf="flightType() === 'round-trip'">
+                <label class="block text-sm font-medium text-gray-700 mb-2">Data de Volta</label>
+                <app-date-picker [(value)]="returnDate" [minDate]="minReturnDate" [maxDate]="maxDate"
+                    placeholder="Selecione a data de volta"></app-date-picker>
+            </div>
+        </div>
+
+        <!-- Passengers -->
+        <div class="relative">
+            <label class="block text-sm font-medium text-gray-700 mb-2">Passageiros</label>
+            <button (click)="togglePassengerPicker()"
+                class="w-full p-4 border-2 border-gray-200 rounded-xl text-left hover:border-blue-500 transition-colors flex items-center justify-between">
+                <span>{{ passengers().adults + passengers().children + passengers().infants }} passageiro(s)</span>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+            </button>
+
+            <!-- Passenger Picker Dropdown -->
+            <div *ngIf="showPassengerPicker()"
+                class="absolute z-20 w-full mt-2 bg-white rounded-xl shadow-2xl border border-gray-200 p-6">
+                <div class="space-y-6">
+                    <!-- Adults -->
+                    <div class="flex justify-between items-center">
+                        <div>
+                            <div class="font-medium text-gray-800">Adultos</div>
+                            <div class="text-sm text-gray-500">12+ anos</div>
+                        </div>
+                        <div class="flex items-center gap-4">
+                            <button (click)="adjustPassengers('adults', -1)"
+                                class="w-10 h-10 flex items-center justify-center rounded-full border-2 border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors disabled:opacity-50"
+                                [disabled]="passengers().adults <= 1">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd" d="M5 10a1 1 0 011-1h8a1 1 0 110 2H6a1 1 0 01-1-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                            <span class="w-8 text-center text-lg font-medium">{{ passengers().adults }}</span>
+                            <button (click)="adjustPassengers('adults', 1)"
+                                class="w-10 h-10 flex items-center justify-center rounded-full border-2 border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Children -->
+                    <div class="flex justify-between items-center">
+                        <div>
+                            <div class="font-medium text-gray-800">Crianças</div>
+                            <div class="text-sm text-gray-500">2-11 anos</div>
+                        </div>
+                        <div class="flex items-center gap-4">
+                            <button (click)="adjustPassengers('children', -1)"
+                                class="w-10 h-10 flex items-center justify-center rounded-full border-2 border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors disabled:opacity-50"
+                                [disabled]="passengers().children <= 0">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd" d="M5 10a1 1 0 011-1h8a1 1 0 110 2H6a1 1 0 01-1-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                            <span class="w-8 text-center text-lg font-medium">{{ passengers().children }}</span>
+                            <button (click)="adjustPassengers('children', 1)"
+                                class="w-10 h-10 flex items-center justify-center rounded-full border-2 border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Infants -->
+                    <div class="flex justify-between items-center">
+                        <div>
+                            <div class="font-medium text-gray-800">Bebês</div>
+                            <div class="text-sm text-gray-500">0-2 anos</div>
+                        </div>
+                        <div class="flex items-center gap-4">
+                            <button (click)="adjustPassengers('infants', -1)"
+                                class="w-10 h-10 flex items-center justify-center rounded-full border-2 border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors disabled:opacity-50"
+                                [disabled]="passengers().infants <= 0">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd" d="M5 10a1 1 0 011-1h8a1 1 0 110 2H6a1 1 0 01-1-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                            <span class="w-8 text-center text-lg font-medium">{{ passengers().infants }}</span>
+                            <button (click)="adjustPassengers('infants', 1)"
+                                class="w-10 h-10 flex items-center justify-center rounded-full border-2 border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Search Button -->
+    <div class="text-center">
+        <button (click)="searchFlights()"
+            class="px-12 py-5 bg-gradient-to-r from-blue-600 to-blue-500 text-white font-bold rounded-xl shadow-xl hover:shadow-2xl hover:from-blue-700 hover:to-blue-600 transition-all duration-300 transform hover:-translate-y-1">
+            <div class="flex items-center justify-center gap-3">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+                <span class="text-lg">Pesquisar Voos</span>
+            </div>
+        </button>
+    </div>
+</div>
