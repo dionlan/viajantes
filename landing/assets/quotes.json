@@ -1,0 +1,6 @@
+{
+  "updatedAt": 1738942800000,
+  "latam": { "buyPerThousand": 30.0, "sellPerThousand": 24.0 },
+  "azul": { "buyPerThousand": 26.0, "sellPerThousand": 20.0 },
+  "smiles": { "buyPerThousand": 28.0, "sellPerThousand": 22.0 }
+}
