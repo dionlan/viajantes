@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Balcão de Milhas — Negociação premium de milhas</title>
+  <meta name="description" content="Negocie milhas com segurança e sofisticação. Cotações em tempo real para LATAM Pass, Azul e Smiles. Simule compra e venda com uma experiência premium." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css" />
+  <meta property="og:title" content="Balcão de Milhas — Negociação premium de milhas" />
+  <meta property="og:description" content="Cotações, simulador e conexão com negociadores verificados. Experiência premium em UX/UI." />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta name="theme-color" content="#317873" />
+</head>
+<body>
+  <a class="skip-link" href="#simulador">Pular para simulador</a>
+  <header class="site-header" aria-label="Cabeçalho">
+    <div class="container nav">
+      <a class="brand" href="#" aria-label="Página inicial">
+        <svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true" class="brand-mark"><path fill="currentColor" d="M12 2l3.09 6.26L22 9.27l-5 4.88L18.18 22L12 18.56L5.82 22L7 14.15l-5-4.88l6.91-1.01z"/></svg>
+        <span class="brand-name">Balcão de Milhas</span>
+      </a>
+      <nav class="primary-nav" aria-label="Navegação principal">
+        <a href="#como-funciona">Como funciona</a>
+        <a href="#cotacoes">Cotações</a>
+        <a href="#simulador">Simulador</a>
+      </nav>
+      <div class="nav-cta">
+        <a class="btn btn-outline" href="#simulador" data-scroll>Comprar</a>
+        <a class="btn btn-primary" href="#simulador" data-scroll>Vender</a>
+      </div>
+      <button class="nav-menu" aria-label="Abrir menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-label="Herói">
+      <canvas id="bg-canvas" aria-hidden="true"></canvas>
+      <div class="container hero-inner">
+        <div class="hero-content">
+          <h1>
+            A revolução na <span class="gradient-text">negociação de milhas</span>
+          </h1>
+          <p class="subtitle">Conecte-se a negociadores verificados e qualificados para comprar ou vender suas milhas com segurança, transparência e a melhor experiência do mercado.</p>
+          <div class="hero-cta">
+            <a class="btn btn-primary btn-lg" href="#simulador" data-scroll>Simular agora</a>
+            <a class="btn btn-ghost btn-lg" href="#como-funciona" data-scroll>Como funciona</a>
+          </div>
+          <div class="hero-badges" aria-label="Diferenciais">
+            <div class="badge"><span class="icon" data-lucide="shield-check"></span> Verificação KYC</div>
+            <div class="badge"><span class="icon" data-lucide="sparkles"></span> Experiência premium</div>
+            <div class="badge"><span class="icon" data-lucide="zap"></span> Liquidez rápida</div>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <div class="orb orb-1"></div>
+          <div class="orb orb-2"></div>
+          <div class="orb orb-3"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="como-funciona" class="how-it-works section" aria-label="Como funciona">
+      <div class="container">
+        <header class="section-header">
+          <h2>Fluxo dinâmico e seguro</h2>
+          <p>Um ecossistema de negociação com profissionais qualificados e verificados.</p>
+        </header>
+        <div class="flow">
+          <div class="flow-step">
+            <div class="flow-icon" aria-hidden="true"><span data-lucide="send"></span></div>
+            <h3>Vendedor de milhas</h3>
+            <p>Publica uma oferta com quantidade e programa desejado.</p>
+          </div>
+          <div class="flow-connector" aria-hidden="true"></div>
+          <div class="flow-step">
+            <div class="flow-icon" aria-hidden="true"><span data-lucide="badge-check"></span></div>
+            <h3>Negociador verificado</h3>
+            <p>Mediador qualificado realiza verificação, custódia e liquidação.</p>
+          </div>
+          <div class="flow-connector" aria-hidden="true"></div>
+          <div class="flow-step">
+            <div class="flow-icon" aria-hidden="true"><span data-lucide="credit-card"></span></div>
+            <h3>Comprador</h3>
+            <p>Recebe as milhas com garantia de entrega e melhor cotação.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="cotacoes" class="quotes section" aria-label="Cotações">
+      <div class="container">
+        <header class="section-header">
+          <h2>Principais programas e cotações</h2>
+          <p>Atualizações dinâmicas para LATAM Pass, Azul e Smiles.</p>
+        </header>
+        <div class="toggle-group" role="tablist" aria-label="Modo de cotação">
+          <button class="toggle active" data-mode="sell" role="tab" aria-selected="true">Vender</button>
+          <button class="toggle" data-mode="buy" role="tab" aria-selected="false">Comprar</button>
+        </div>
+        <div class="quote-grid" role="region" aria-live="polite">
+          <article class="quote-card" data-program="latam">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Latam-logo-2015.png" alt="LATAM Pass" class="program-logo" />
+            <h3>LATAM Pass</h3>
+            <p class="quote-sub">Cotação por 1.000 milhas</p>
+            <div class="quote-value" data-quote>—</div>
+            <div class="quote-updated" data-updated>Atualizando…</div>
+          </article>
+          <article class="quote-card" data-program="azul">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Azul_Brazilian_Airlines_logo.svg" alt="Azul" class="program-logo" />
+            <h3>Azul</h3>
+            <p class="quote-sub">Cotação por 1.000 milhas</p>
+            <div class="quote-value" data-quote>—</div>
+            <div class="quote-updated" data-updated>Atualizando…</div>
+          </article>
+          <article class="quote-card" data-program="smiles">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Smiles_logo.svg" alt="Smiles" class="program-logo" />
+            <h3>Smiles</h3>
+            <p class="quote-sub">Cotação por 1.000 milhas</p>
+            <div class="quote-value" data-quote>—</div>
+            <div class="quote-updated" data-updated>Atualizando…</div>
+          </article>
+        </div>
+        <p class="quotes-footnote">Valores ilustrativos. Cotações podem variar conforme liquidez e janela de negociação.</p>
+      </div>
+    </section>
+
+    <section id="simulador" class="simulator section" aria-label="Simulador de compra e venda">
+      <div class="container">
+        <header class="section-header">
+          <h2>Simule sua negociação</h2>
+          <p>Escolha o programa, operação e quantidade. Resultado em reais instantaneamente.</p>
+        </header>
+        <div class="simulator-grid">
+          <form class="sim-form" novalidate>
+            <div class="field-group">
+              <label class="label">Operação</label>
+              <div class="segmented" role="tablist" aria-label="Tipo de operação">
+                <button type="button" class="segmented-item active" data-op="sell" role="tab" aria-selected="true">Vender</button>
+                <button type="button" class="segmented-item" data-op="buy" role="tab" aria-selected="false">Comprar</button>
+              </div>
+            </div>
+
+            <div class="field">
+              <label for="programa">Programa</label>
+              <select id="programa" name="programa" required>
+                <option value="latam">LATAM Pass</option>
+                <option value="azul">Azul</option>
+                <option value="smiles">Smiles</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="quantidade">Quantidade de milhas</label>
+              <input id="quantidade" name="quantidade" type="number" inputmode="numeric" min="100" step="100" value="1000" required />
+              <small class="hint">Múltiplos de 100. Ex.: 1000, 5000, 10000.</small>
+            </div>
+
+            <div class="summary">
+              <div class="summary-row">
+                <span>Cotação por 1.000</span>
+                <strong id="cotacao">—</strong>
+              </div>
+              <div class="summary-row">
+                <span>Valor total</span>
+                <strong id="valor">—</strong>
+              </div>
+            </div>
+
+            <button type="button" id="cta-conectar" class="btn btn-primary btn-lg">Conectar a um negociador</button>
+            <p class="disclaimer">Simulação ilustrativa com base em cotações públicas. A negociação final poderá variar conforme análise e disponibilidade.</p>
+          </form>
+
+          <div class="sim-insights">
+            <div class="insight-card">
+              <div class="insight-icon" aria-hidden="true"><span data-lucide="shield"></span></div>
+              <div class="insight-content">
+                <h4>Custódia e segurança</h4>
+                <p>Modelo com garantia de liquidação e proteção contra fraudes.</p>
+              </div>
+            </div>
+            <div class="insight-card">
+              <div class="insight-icon" aria-hidden="true"><span data-lucide="clock"></span></div>
+              <div class="insight-content">
+                <h4>Agilidade</h4>
+                <p>Negociações em minutos com profissionais de alta reputação.</p>
+              </div>
+            </div>
+            <div class="insight-card">
+              <div class="insight-icon" aria-hidden="true"><span data-lucide="star"></span></div>
+              <div class="insight-content">
+                <h4>Experiência premium</h4>
+                <p>Interface moderna, responsiva, com animações fluidas e intuitivas.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="trader-modal" class="modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="trader-modal-title">
+        <div class="modal-backdrop" data-close></div>
+        <div class="modal-dialog" role="document">
+          <button class="modal-close" aria-label="Fechar" data-close>&times;</button>
+          <div class="modal-header">
+            <h3 id="trader-modal-title">Negociador verificado</h3>
+          </div>
+          <div class="modal-body" id="trader-details"></div>
+          <div class="modal-actions">
+            <a href="#" id="modal-action" class="btn btn-primary" target="_blank" rel="noopener">Iniciar conversa</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" aria-label="Rodapé">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="brand mini">
+            <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" class="brand-mark"><path fill="currentColor" d="M12 2l3.09 6.26L22 9.27l-5 4.88L18.18 22L12 18.56L5.82 22L7 14.15l-5-4.88l6.91-1.01z"/></svg>
+            <span class="brand-name">Balcão de Milhas</span>
+          </div>
+          <p class="footer-copy">© <span id="year"></span> Balcão de Milhas. Todos os direitos reservados.</p>
+        </div>
+        <nav aria-label="Rodapé">
+          <a href="#como-funciona">Como funciona</a>
+          <a href="#cotacoes">Cotações</a>
+          <a href="#simulador">Simulador</a>
+        </nav>
+        <div class="footer-legal">
+          <a href="#">Termos</a>
+          <a href="#">Privacidade</a>
+          <a href="#">Contato</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/lenis@1.1.14/dist/lenis.min.js" defer></script>
+  <script src="https://unpkg.com/gsap@3.12.5/dist/gsap.min.js" defer></script>
+  <script src="https://unpkg.com/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.js" defer></script>
+  <script src="scripts/main.js" defer></script>
+</body>
+</html>

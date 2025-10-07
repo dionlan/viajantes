@@ -1,0 +1,22 @@
+// SCSS source (reference). CSS builds are in main.css
+$mint-200: #a3c1ad;
+$mint-300: #a0d6b4;
+$teal-400: #5f9ea0;
+$teal-600: #49796b;
+$teal-700: #317873;
+$bg: #0c1110;
+$text: #e6f2ed;
+$text-dim: #b6c9c0;
+
+:root {
+  --color-mint-200: #{$mint-200};
+  --color-mint-300: #{$mint-300};
+  --color-teal-400: #{$teal-400};
+  --color-teal-600: #{$teal-600};
+  --color-teal-700: #{$teal-700};
+  --color-bg: #{$bg};
+  --color-text: #{$text};
+  --color-text-dim: #{$text-dim};
+}
+
+// For development, edit SCSS then mirror into CSS if using no bundler.
